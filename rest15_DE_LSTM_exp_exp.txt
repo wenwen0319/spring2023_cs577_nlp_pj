@@ -1,0 +1,1626 @@
+================['love', 'al', 'di', 'la', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['love', 'la', 'love', 'la', 'love', 'la', 'love', 'la', 'love', 'la']================
+
+================['i', 'recommend', 'this', 'place', 'to', 'everyone', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'recommend', 'to', 'recommend', 'i', 'recommend', 'i', 'recommend', '.']================
+
+================['great', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'food', 'great', 'food', 'great', 'food', 'great', 'food', 'great', 'food']================
+
+================['the', 'pastas', 'are', 'incredible', ',', 'the', 'risottos', '(', 'particularly', 'the', 'sepia', ')', 'are', 'fantastic', 'and', 'the', 'braised', 'rabbit', 'is', 'amazing', '.']
+['the', 'pastas', 'are', 'incredible', 'are', 'incredible', 'are', 'incredible', 'are', 'incredible']================
+
+================['the', 'pastas', 'are', 'incredible', ',', 'the', 'risottos', '(', 'particularly', 'the', 'sepia', ')', 'are', 'fantastic', 'and', 'the', 'braised', 'rabbit', 'is', 'amazing', '.']
+['the', 'risottos', 'are', 'fantastic', 'are', 'are', 'incredible', 'are', 'incredible', 'are']================
+
+================['the', 'pastas', 'are', 'incredible', ',', 'the', 'risottos', '(', 'particularly', 'the', 'sepia', ')', 'are', 'fantastic', 'and', 'the', 'braised', 'rabbit', 'is', 'amazing', '.']
+['the', 'sepia', 'risottos', 'the', 'risottos', '(', 'risottos', 'are', 'fantastic', 'are']================
+
+================['the', 'pastas', 'are', 'incredible', ',', 'the', 'risottos', '(', 'particularly', 'the', 'sepia', ')', 'are', 'fantastic', 'and', 'the', 'braised', 'rabbit', 'is', 'amazing', '.']
+['the', 'rabbit', 'is', 'rabbit', 'braised', 'rabbit', 'braised', 'rabbit', 'braised', 'rabbit']================
+
+================['the', 'food', 'here', 'was', 'mediocre', 'at', 'best', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'was', 'mediocre', 'was', 'mediocre', 'was', 'mediocre', 'was', 'food']================
+
+================['it', 'was', 'totally', 'overpriced-', 'fish', 'and', 'chips', 'was', 'about', '$', '15', '....']
+['overpriced-', 'fish', 'and', 'fish', 'and', 'fish', 'and', 'fish', 'was', 'was']================
+
+================['tasty', 'dog', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['tasty', 'dog', 'tasty', 'dog', 'tasty', 'dog', 'tasty', 'dog', 'tasty', 'dog']================
+
+================['an', 'awesome', 'organic', 'dog', ',', 'and', 'a', 'conscious', 'eco', 'friendly', 'establishment', '.']
+['organic', 'dog', 'and', 'dog', 'awesome', 'dog', 'awesome', 'dog', 'awesome', 'dog']================
+
+================['an', 'awesome', 'organic', 'dog', ',', 'and', 'a', 'conscious', 'eco', 'friendly', 'establishment', '.']
+['friendly', 'establishment', 'friendly', 'eco', 'friendly', 'eco', 'friendly', 'eco', 'friendly', 'eco']================
+
+================['the', 'cypriot', 'restaurant', 'has', 'a', 'lot', 'going', 'for', 'it', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'restaurant', 'cypriot', 'restaurant', 'cypriot', 'restaurant', 'has', '.', 'has', '.']================
+
+================['but', 'the', 'best', 'pork', 'souvlaki', 'i', 'ever', 'had', 'is', 'the', 'main', 'thing', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['best', 'souvlaki', 'the', 'souvlaki', 'best', 'souvlaki', 'best', 'souvlaki', 'best', 'souvlaki']================
+
+================['super', 'yummy', 'pizza', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['yummy', 'pizza', 'yummy', 'pizza', 'yummy', 'pizza', 'yummy', 'pizza', 'yummy', 'pizza']================
+
+================['i', 'was', 'visiting', 'new', 'york', 'city', 'with', 'a', 'friend', 'and', 'we', 'discovered', 'this', 'really', 'warm', 'and', 'inviting', 'restaurant', '.']
+['inviting', 'warm', 'inviting', 'warm', 'inviting', 'warm', 'inviting', 'warm', 'inviting', 'warm']================
+
+================['i', 'looove', 'their', 'eggplant', 'pizza', ',', 'as', 'well', 'as', 'their', 'pastas', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['their', 'pizza', 'eggplant', 'pizza', 'looove', 'i', 'looove', 'i', 'looove', '!']================
+
+================['i', 'looove', 'their', 'eggplant', 'pizza', ',', 'as', 'well', 'as', 'their', 'pastas', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['their', 'pastas', 'looove', '!', 'looove', '!', 'looove', 'i', 'looove', '!']================
+
+================['we', 'had', 'half', '/', 'half', 'pizza', ',', 'mine', 'was', 'eggplant', 'and', 'my', 'friend', 'had', 'the', 'buffalo', 'and', 'it', 'was', 'sooo', 'huge', 'for', 'a', 'small', 'size', 'pizza', '!']
+['had', 'was', 'eggplant', 'was', 'had', 'and', 'had', 'buffalo', 'had', 'friend']================
+
+================['excellent', 'food', ',', 'although', 'the', 'interior', 'could', 'use', 'some', 'help', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['excellent', 'food', 'excellent', 'food', 'excellent', 'food', 'excellent', 'food', 'excellent', 'food']================
+
+================['excellent', 'food', ',', 'although', 'the', 'interior', 'could', 'use', 'some', 'help', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'interior', 'use', 'help', 'some', 'help', 'some', 'help', 'some', 'help']================
+
+================['the', 'space', 'kind', 'of', 'feels', 'like', 'an', 'alice', 'in', 'wonderland', 'setting', ',', 'without', 'it', 'trying', 'to', 'be', 'that', '.']
+['the', 'kind', 'the', 'kind', 'of', 'feels', 'without', 'trying', 'without', 'feels']================
+
+================['i', 'paid', 'just', 'about', '$', '60', 'for', 'a', 'good', 'meal', ',', 'though', ':)', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['good', 'meal', 'for', 'paid', 'i', 'paid', 'i', 'paid', ':)', 'paid']================
+
+================['great', 'sake', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'sake', '!', 'sake', '!', 'sake', '!', 'sake', '!', 'sake']================
+
+================['reliable', ',', 'fresh', 'sushi', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['fresh', 'sushi', 'fresh', 'sushi', 'reliable', 'sushi', 'reliable', 'sushi', 'reliable', 'sushi']================
+
+================['the', 'sashimi', 'is', 'always', 'fresh', 'and', 'the', 'rolls', 'are', 'innovative', 'and', 'delicious', '.']
+['the', 'sashimi', 'is', 'are', 'innovative', 'and', 'innovative', 'delicious', 'innovative', 'delicious']================
+
+================['the', 'sashimi', 'is', 'always', 'fresh', 'and', 'the', 'rolls', 'are', 'innovative', 'and', 'delicious', '.']
+['the', 'rolls', 'are', 'innovative', 'delicious', 'innovative', 'delicious', 'innovative', 'delicious', 'innovative']================
+
+================['have', 'never', 'had', 'a', 'problem', 'with', 'service', 'save', 'a', 'missing', 'rice', 'once', '.']
+['with', 'problem', 'with', 'problem', 'had', '.', 'had', '.', 'had', '.']================
+
+================['delivery', 'can', 'be', 'spot', 'on', 'or', 'lacking', 'depending', 'on', 'the', 'weather', 'and', 'the', 'day', 'of', 'the', 'week', '.']
+['delivery', 'can', 'spot', 'on', 'lacking', 'on', 'lacking', 'on', 'lacking', 'on']================
+
+================['delivery', 'guy', 'sometimes', 'get', 'upset', 'if', 'you', 'do', "n't", 'tip', 'more', 'than', '10', '%', '.', '<pad>', '<pad>', '<pad>']
+['delivery', 'guy', 'sometimes', 'upset', 'get', 'upset', 'get', 'upset', 'get', 'upset']================
+
+================['best', '.', 'sushi', '.', 'ever', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['.', 'best', '.', 'best', '.', 'best', '.', 'best', '.', 'best']================
+
+================['this', 'place', 'has', 'ruined', 'me', 'for', 'neighborhood', 'sushi', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['neighborhood', 'sushi', 'for', 'sushi', 'neighborhood', 'sushi', 'neighborhood', 'sushi', 'neighborhood', 'sushi']================
+
+================['excellent', 'sashimi', ',', 'and', 'the', 'millennium', 'roll', 'is', 'beyond', 'delicious', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['excellent', 'sashimi', 'and', 'sashimi', 'is', 'beyond', 'delicious', 'beyond', 'delicious', 'beyond']================
+
+================['excellent', 'sashimi', ',', 'and', 'the', 'millennium', 'roll', 'is', 'beyond', 'delicious', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'roll', 'millennium', 'roll', 'is', 'beyond', 'delicious', 'beyond', 'delicious', 'beyond']================
+
+================['the', 'place', 'is', 'a', 'bit', 'hidden', 'away', ',', 'but', 'once', 'you', 'get', 'there', ',', 'it', "'s", 'all', 'worth', 'it', '.']
+['the', 'place', 'is', ',', 'is', 'hidden', 'bit', 'a', 'bit', 'hidden']================
+
+================['not', 'only', 'is', 'the', 'food', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'the', 'food', 'the', 'food', 'the', 'food', 'is', 'food']================
+
+================['the', 'waiter', 'was', 'attentive', ',', 'the', 'food', 'was', 'delicious', 'and', 'the', 'views', 'of', 'the', 'city', 'were', 'great', '.']
+['the', 'waiter', 'was', 'was', 'delicious', 'was', 'delicious', 'was', 'delicious', 'was']================
+
+================['the', 'waiter', 'was', 'attentive', ',', 'the', 'food', 'was', 'delicious', 'and', 'the', 'views', 'of', 'the', 'city', 'were', 'great', '.']
+['the', 'food', 'was', 'was', 'attentive', 'was', 'attentive', 'was', 'attentive', 'was']================
+
+================['the', 'waiter', 'was', 'attentive', ',', 'the', 'food', 'was', 'delicious', 'and', 'the', 'views', 'of', 'the', 'city', 'were', 'great', '.']
+['the', 'views', 'were', 'was', 'delicious', 'was', 'was', 'attentive', 'was', 'attentive']================
+
+================['great', 'place', 'to', 'relax', 'and', 'enjoy', 'your', 'dinner', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'place', 'relax', 'and', 'relax', 'to', 'relax', 'enjoy', 'relax', 'enjoy']================
+
+================['there', 'is', 'something', 'about', 'their', 'atmosphere', 'that', 'makes', 'me', 'come', 'back', 'nearly', 'every', 'week', '.']
+['their', 'atmosphere', 'makes', 'that', 'makes', 'come', 'me', 'come', 'me', 'come']================
+
+================['place', 'is', 'open', 'till', 'late', ',', 'no', 'dress', 'code', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['place', 'is', 'open', 'late', '.', 'code', '.', 'code', '.', ',']================
+
+================['good', 'food', ':', 'my', 'favorite', 'is', 'the', 'sea$t$', 'spaghetti', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['good', 'food', 'is', 'favorite', 'my', 'favorite', 'my', 'favorite', 'my', 'favorite']================
+
+================['good', 'food', ':', 'my', 'favorite', 'is', 'the', 'seafood', 'spaghetti', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'spaghetti', 'seafood', 'spaghetti', 'is', 'favorite', 'my', 'favorite', 'my', 'favorite']================
+
+================['excellent', 'food', 'for', 'great', 'prices', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['excellent', 'food', 'excellent', 'food', 'excellent', 'food', 'excellent', 'food', 'excellent', 'food']================
+
+================['the', 'wait', 'staff', 'is', 'very', 'courteous', 'and', 'accomodating', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'staff', 'is', 'courteous', 'very', 'courteous', 'and', 'courteous', 'accomodating', 'courteous']================
+
+================['the', 'space', 'is', 'limited', 'so', 'be', 'prepared', 'to', 'wait', 'up', 'to', '45', 'minutes', '-', '1', 'hour', ',', 'but', 'be', 'richly', 'rewarded', 'when', 'you', 'savor', 'the', 'delicious', 'indo', '-', 'chinese', 'food', '.']
+['the', 'space', 'the', 'space', 'the', 'space', 'limited', '.', 'limited', 'space']================
+
+================['the', 'space', 'is', 'limited', 'so', 'be', 'prepared', 'to', 'wait', 'up', 'to', '45', 'minutes', '-', '1', 'hour', ',', 'but', 'be', 'richly', 'rewarded', 'when', 'you', 'savor', 'the', 'delicious', 'indo', '-', 'chinese', 'food', '.']
+['delicious', 'food', 'savor', 'you', 'savor', 'when', 'savor', 'rewarded', 'richly', 'rewarded']================
+
+================['my', 'favorite', 'place', 'lol', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['favorite', 'place', 'favorite', 'place', 'favorite', 'place', 'favorite', 'place', 'favorite', 'place']================
+
+================['i', 'love', 'their', 'chicken', 'pasta', 'ca', 'nt', 'remember', 'the', 'name', 'but', 'is', 'sooo', 'good', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['their', 'pasta', 'love', 'i', 'love', 'i', 'love', 'i', 'love', 'i']================
+
+================['i', 'm', 'not', 'necessarily', 'fanatical', 'about', 'this', 'place', ',', 'but', 'it', 'was', 'a', 'fun', 'time', 'for', 'low', 'pirces', '.']
+['this', 'place', 'this', 'place', 'about', 'fanatical', 'm', 'i', 'm', 'necessarily']================
+
+================['lobster', 'was', 'good', ',', 'nothing', 'spectacular', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['lobster', 'was', 'good', ',', 'good', 'nothing', 'good', 'nothing', 'good', 'nothing']================
+
+================['its', 'just', 'a', 'fun', 'place', 'to', 'go', ',', 'not', 'a', 'five', 'star', 'restaraunt', '.']
+['star', 'five', 'star', 'five', 'star', 'restaraunt', 'not', 'restaraunt', 'not', 'restaraunt']================
+
+================['i', 'think', 'the', 'pizza', 'is', 'so', 'overrated', 'and', 'was', 'under', 'cooked', '.', '<pad>', '<pad>']
+['the', 'pizza', 'is', 'overrated', 'so', 'overrated', 'so', 'overrated', 'is', 'pizza']================
+
+================['had', 'no', 'flavor', 'and', 'the', 'staff', 'is', 'rude', 'and', 'not', 'attentive', '.', '<pad>', '<pad>']
+['the', 'staff', 'is', 'rude', 'attentive', 'rude', 'and', 'rude', 'and', 'rude']================
+
+================['i', 'love', 'this', 'place', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'love', 'i', 'love', 'i', 'love', 'i', 'love', 'i']================
+
+================['the', 'service', 'was', 'quick', 'and', 'friendly', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'service', 'was', 'quick', 'and', 'quick', 'friendly', 'quick', 'friendly', 'quick']================
+
+================['i', 'thought', 'the', 'restaurant', 'was', 'nice', 'and', 'clean', '.', '<pad>', '<pad>', '<pad>']
+['the', 'restaurant', 'was', 'thought', 'i', 'thought', 'i', 'thought', 'i', 'thought']================
+
+================['i', 'ordered', 'the', 'vitello', 'alla', 'marsala', 'and', 'i', 'was', 'pretty', 'impressed', '.']
+['the', 'marsala', 'vitello', 'marsala', 'vitello', 'marsala', 'vitello', 'marsala', 'vitello', 'marsala']================
+
+================['the', 'veal', 'and', 'the', 'mushrooms', 'were', 'cooked', 'perfectly', '.', '<pad>', '<pad>', '<pad>']
+['the', 'veal', 'the', 'veal', 'mushrooms', 'veal', 'mushrooms', 'veal', 'and', 'veal']================
+
+================['the', 'veal', 'and', 'the', 'mushrooms', 'were', 'cooked', 'perfectly', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'mushrooms', 'veal', 'cooked', 'perfectly', 'cooked', 'veal', 'mushrooms', 'veal', 'cooked']================
+
+================['the', 'potato', 'balls', 'were', 'not', 'dry', 'at', 'all', '...', 'in', 'fact', 'it', 'was', 'buttery', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'balls', 'potato', 'balls', 'were', 'was', 'in', 'fact', 'in', 'was']================
+
+================['worst', 'place', 'on', 'smith', 'street', 'in', 'brooklyn', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['worst', 'place', 'worst', 'place', 'worst', 'place', 'worst', 'place', 'worst', 'place']================
+
+================['very', 'immature', 'bartender', ',', 'did', 'nt', 'know', 'how', 'to', 'make', 'specific', 'drinks', ',', 'service', 'was', 'so', 'slowwwww', ',', 'the', 'food', 'was', 'not', 'fresh', 'or', 'warm', ',', 'waitresses', 'were', 'busy', 'flirting', 'with', 'men', 'at', 'the', 'bar', 'and', 'were', 'nt', 'very', 'attentive', 'to', 'all', 'the', 'customers', '.']
+['immature', 'bartender', 'immature', 'very', 'immature', 'very', 'immature', 'very', 'immature', 'very']================
+
+================['very', 'immature', 'bartender', ',', 'did', 'nt', 'know', 'how', 'to', 'make', 'specific', 'drinks', ',', 'service', 'was', 'so', 'slowwwww', ',', 'the', 'food', 'was', 'not', 'fresh', 'or', 'warm', ',', 'waitresses', 'were', 'busy', 'flirting', 'with', 'men', 'at', 'the', 'bar', 'and', 'were', 'nt', 'very', 'attentive', 'to', 'all', 'the', 'customers', '.']
+[',', 'was', 'was', 'know', 'bartender', 'immature', 'very', 'immature', 'bartender', 'immature']================
+
+================['very', 'immature', 'bartender', ',', 'did', 'nt', 'know', 'how', 'to', 'make', 'specific', 'drinks', ',', 'service', 'was', 'so', 'slowwwww', ',', 'the', 'food', 'was', 'not', 'fresh', 'or', 'warm', ',', 'waitresses', 'were', 'busy', 'flirting', 'with', 'men', 'at', 'the', 'bar', 'and', 'were', 'nt', 'very', 'attentive', 'to', 'all', 'the', 'customers', '.']
+['the', 'food', 'was', 'not', 'was', 'know', 'bartender', 'immature', 'very', 'immature']================
+
+================['very', 'immature', 'bartender', ',', 'did', 'nt', 'know', 'how', 'to', 'make', 'specific', 'drinks', ',', 'service', 'was', 'so', 'slowwwww', ',', 'the', 'food', 'was', 'not', 'fresh', 'or', 'warm', ',', 'waitresses', 'were', 'busy', 'flirting', 'with', 'men', 'at', 'the', 'bar', 'and', 'were', 'nt', 'very', 'attentive', 'to', 'all', 'the', 'customers', '.']
+[',', 'were', 'was', 'not', 'was', 'not', 'was', 'were', 'were', 'nt']================
+
+================['i', 'would', 'never', 'recommend', 'this', 'place', 'to', 'anybody', 'even', 'for', 'a', 'casual', 'dinner', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'recommend', 'to', 'anybody', 'for', 'anybody', 'for', 'even', 'for']================
+
+================['the', 'food', 'is', 'always', 'fresh', '...', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'is', 'always', 'is', 'always', 'is', 'always', 'is', 'always']================
+
+================['overpriced', 'japanese', 'food', 'with', 'mediocre', 'service', '<pad>', '<pad>', '<pad>', '<pad>']
+['overpriced', 'food', 'with', 'service', 'mediocre', 'service', 'mediocre', 'service', 'mediocre', 'service']================
+
+================['overpriced', 'japanese', 'food', 'with', 'mediocre', 'service', '<pad>', '<pad>', '<pad>', '<pad>']
+['mediocre', 'service', 'with', 'food', 'japanese', 'food', 'overpriced', 'food', 'overpriced', 'food']================
+
+================['chicken', 'teriyaki', 'had', 'tomato', 'or', 'pimentos', 'on', 'top', '?', '?']
+['chicken', 'teriyaki', 'had', 'tomato', 'or', 'tomato', 'had', 'tomato', 'had', 'tomato']================
+
+================['food', 'was', 'luke', 'warm', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['food', 'was', 'food', 'was', 'food', 'was', 'food', 'was', 'food', 'was']================
+
+================['the', 'waitress', 'was', 'not', 'attentive', 'at', 'all', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'waitress', 'the', 'waitress', 'was', 'not', 'was', 'not', 'was', 'not']================
+
+================['i', 'was', 'looking', 'for', 'banana', 'tempura', 'for', 'dessert', 'and', 'they', 'do', 'nt', 'have', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['for', 'looking', 'for', 'dessert', 'for', 'dessert', 'for', 'dessert', 'for', 'dessert']================
+
+================['not', 'because', 'you', 'are', '"', 'the', 'four', 'seasons', '"', '...', '–', 'you', 'are', 'allowed', 'to', 'charge', 'an', 'arm', 'and', 'a', 'leg', 'for', 'a', 'romatic', 'dinner', '.']
+['"', 'are', 'allowed', 'are', 'allowed', 'charge', 'arm', 'charge', 'allowed', 'you']================
+
+================['the', 'food', 'was', 'excellent', 'as', 'well', 'as', 'service', ',', 'however', ',', 'i', 'left', 'the', 'four', 'seasons', 'very', 'dissappointed', '.', '<pad>']
+['the', 'food', 'was', 'excellent', 'as', 'excellent', 'service', 'excellent', 'service', 'excellent']================
+
+================['the', 'food', 'was', 'excellent', 'as', 'well', 'as', 'service', ',', 'however', ',', 'i', 'left', 'the', 'four', 'seasons', 'very', 'dissappointed', '.', '<pad>']
+['as', 'well', 'as', 'excellent', 'as', 'excellent', 'service', 'excellent', 'service', 'excellent']================
+
+================['the', 'food', 'was', 'excellent', 'as', 'well', 'as', 'service', ',', 'however', ',', 'i', 'left', 'the', 'four', 'seasons', 'very', 'dissappointed', '.', '<pad>']
+['left', 'was', 'left', '.', 'left', 'dissappointed', 'left', 'dissappointed', 'very', 'dissappointed']================
+
+================['i', 'do', 'not', 'think', 'dinner', 'in', 'manhattan', 'should', 'cost', '$', '400.00', 'where', 'i', 'am', 'not', 'swept', 'off', 'my', 'feet', '.']
+['think', 'not', 'think', 'cost', 'dinner', 'cost', 'dinner', 'cost', 'dinner', 'cost']================
+
+================['red', 'dragon', 'roll', '-', 'my', 'favorite', 'thing', 'to', 'eat', ',', 'of', 'any', 'food', 'group', '-', 'hands', 'down']
+['red', 'dragon', 'red', 'dragon', 'red', 'dragon', 'red', 'dragon', 'red', 'dragon']================
+
+================['just', 'go', 'to', 'yamato', 'and', 'order', 'the', 'red', 'dragon', 'roll', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['to', 'yamato', 'to', 'go', 'order', 'roll', 'dragon', 'roll', 'dragon', 'roll']================
+
+================['just', 'go', 'to', 'yamato', 'and', 'order', 'the', 'red', 'dragon', 'roll', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'roll', 'red', 'roll', 'red', 'roll', 'dragon', 'roll', 'dragon', 'roll']================
+
+================['the', 'seafood', 'dynamite', 'is', 'also', 'otherworldly', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'dynamite', 'seafood', 'dynamite', 'seafood', 'dynamite', 'seafood', 'dynamite', 'seafood', 'dynamite']================
+
+================['favorite', 'sushi', 'in', 'nyc', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['favorite', 'sushi', 'in', 'nyc', 'in', 'nyc', 'in', 'nyc', 'in', 'nyc']================
+
+================['an', 'unpretentious', 'spot', 'in', 'park', 'slope', ',', 'the', 'sushi', 'is', 'consistently', 'good', ',', 'the', 'service', 'is', 'pleasant', ',', 'effective', 'and', 'unassuming', '.']
+['unpretentious', 'spot', 'is', 'spot', 'unpretentious', 'spot', 'unpretentious', 'spot', 'unpretentious', 'spot']================
+
+================['an', 'unpretentious', 'spot', 'in', 'park', 'slope', ',', 'the', 'sushi', 'is', 'consistently', 'good', ',', 'the', 'service', 'is', 'pleasant', ',', 'effective', 'and', 'unassuming', '.']
+['the', 'sushi', 'is', 'spot', 'in', 'spot', 'unpretentious', 'spot', 'in', 'spot']================
+
+================['an', 'unpretentious', 'spot', 'in', 'park', 'slope', ',', 'the', 'sushi', 'is', 'consistently', 'good', ',', 'the', 'service', 'is', 'pleasant', ',', 'effective', 'and', 'unassuming', '.']
+['the', 'service', 'is', 'pleasant', ',', 'pleasant', 'effective', 'pleasant', 'is', 'pleasant']================
+
+================['in', 'the', 'summer', 'months', ',', 'the', 'back', 'garden', 'area', 'is', 'really', 'nice', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'area', 'the', 'area', 'garden', 'area', 'garden', 'area', 'garden', 'area']================
+
+================['the', 'rolls', 'are', 'creative', 'and', 'i', 'have', 'yet', 'to', 'find', 'another', 'sushi', 'place', 'that', 'serves', 'up', 'more', 'inventive', 'yet', 'delicious', 'japanese', 'food', '.']
+['the', 'rolls', 'are', 'have', 'find', 'have', 'i', 'have', 'i', 'have']================
+
+================['the', 'rolls', 'are', 'creative', 'and', 'i', 'have', 'yet', 'to', 'find', 'another', 'sushi', 'place', 'that', 'serves', 'up', 'more', 'inventive', 'yet', 'delicious', 'japanese', 'food', '.']
+['delicious', 'food', 'delicious', 'yet', 'delicious', 'yet', 'delicious', 'food', 'delicious', 'yet']================
+
+================['the', 'dancing', ',', 'white', 'river', 'and', 'millenium', 'rolls', 'are', 'musts', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'dancing', 'river', 'white', 'river', 'dancing', 'are', '.', 'are', '.']================
+
+================['i', 'can', 'eat', 'here', 'every', 'day', 'of', 'the', 'week', 'really', 'lol', 'love', 'this', 'place', '...', ')', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'this', 'place', 'eat', 'love', 'lol', 'love', 'lol', 'really']================
+
+================['gross', 'food', '–', 'wow-', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['gross', 'food', 'gross', 'food', 'gross', 'food', 'gross', 'food', 'gross', 'food']================
+
+================['i', 'ca', "n't", 'remember', 'the', 'last', 'time', 'i', 'had', 'such', 'gross', 'food', 'in', 'new', 'york', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['gross', 'food', 'gross', 'food', 'gross', 'food', 'gross', 'food', 'gross', 'food']================
+
+================['my', 'quesadilla', 'tasted', 'like', 'it', 'had', 'been', 'made', 'by', 'a', 'three', '-', 'year', 'old', 'with', 'no', 'sense', 'of', 'proportion', 'or', 'flavor', '.']
+['my', 'quesadilla', 'tasted', 'made', 'by', 'made', 'tasted', 'made', 'with', 'made']================
+
+================['and', '$', '11', 'for', 'a', 'plate', 'of', 'bland', 'guacamole', '?', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['bland', 'guacamole', 'bland', 'guacamole', 'bland', 'guacamole', 'bland', 'guacamole', 'bland', 'guacamole']================
+
+================['do', "n't", 'get', 'me', 'started', 'on', 'the', 'margaritas', ',', 'either', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'margaritas', 'on', 'started', 'get', "n't", 'get', 'do', 'get', "n't"]================
+
+================['oh', ',', 'and', 'i', 'never', 'write', 'reviews', '--', 'i', 'just', 'was', 'so', 'moved', 'by', 'how', 'bad', 'this', 'place', 'was', ',', 'i', 'felt', 'it', 'was', 'my', 'duty', 'to', 'spread', 'the', 'word', '.']
+['this', 'place', 'was', 'bad', 'how', 'bad', 'how', 'bad', 'was', 'bad']================
+
+================['great', 'indian', 'food', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'food', 'great', 'food', 'indian', 'food', '!', 'food', '!', 'food']================
+
+================['the', 'food', 'was', 'good', ',', 'the', 'place', 'was', 'clean', 'and', 'affordable', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'the', 'food', 'the', 'food', 'the', 'food', 'the', 'food']================
+
+================['the', 'food', 'was', 'good', ',', 'the', 'place', 'was', 'clean', 'and', 'affordable', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'place', 'the', 'place', 'was', '.', 'was', '.', 'was', '.']================
+
+================['i', 'noticed', 'alot', 'of', 'indian', 'people', 'eatting', 'there', 'which', 'is', 'a', 'great', 'sign', 'for', 'an', 'indian', 'place', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['an', 'place', 'for', 'sign', 'great', 'sign', 'is', 'which', 'is', 'sign']================
+
+================['this', 'is', 'one', 'of', 'my', 'favorite', 'spot', ',', 'very', 'relaxing', 'the', 'food', 'is', 'great', 'all', 'the', 'times', ',', 'celebrated', 'my', 'engagement', 'and', 'my', 'wedding', 'here', ',', 'it', 'was', 'very', 'well', 'organized', '.']
+['the', 'food', 'relaxing', 'very', 'relaxing', 'very', 'relaxing', 'very', 'relaxing', 'very']================
+
+================['the', 'staff', 'is', 'very', 'good', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'staff', 'the', 'staff', 'the', 'staff', 'is', '.', 'is', '.']================
+
+================['love', 'their', 'drink', 'menu', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['their', 'menu', 'love', 'menu', 'love', '.', 'love', '.', 'love', '.']================
+
+================['i', 'highly', 'recommend', 'this', 'beautiful', 'place', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['beautiful', 'place', 'recommend', 'highly', 'recommend', 'i', 'recommend', 'i', 'recommend', 'i']================
+
+================['we', 'were', 'offered', 'water', 'for', 'the', 'table', 'but', 'were', 'not', 'told', 'the', 'voss', 'bottles', 'of', 'water', 'were', '$', '8', 'a', 'piece', '.']
+['the', 'bottles', 'told', 'not', 'told', 'not', 'told', 'not', 'told', 'were']================
+
+================['food', 'was', 'ok', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['food', 'was', 'ok', 'was', 'ok', 'was', 'ok', '.', 'ok', 'was']================
+
+================['nice', 'view', 'of', 'river', 'and', 'nyc', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['nice', 'view', 'of', 'river', 'nyc', 'river', 'nyc', 'river', 'nyc', 'river']================
+
+================['great', 'survice', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'survice', 'great', 'survice', 'great', 'survice', 'great', 'survice', 'great', 'survice']================
+
+================['a', 'beautifully', 'designed', 'dreamy', 'egyptian', 'restaurant', 'that', 'gets', 'sceney', 'at', 'night', '.']
+['dreamy', 'restaurant', 'designed', 'beautifully', 'designed', 'beautifully', 'designed', 'beautifully', 'designed', 'beautifully']================
+
+================['watch', 'the', 'talented', 'belly', 'dancers', 'as', 'you', 'enjoy', 'delicious', 'baba', 'ganoush', 'that', "'s", 'more', 'lemony', 'than', 'smoky', '.']
+['delicious', 'ganoush', 'delicious', 'ganoush', 'delicious', 'ganoush', 'enjoy', 'watch', 'enjoy', 'watch']================
+
+================['watch', 'the', 'talented', 'belly', 'dancers', 'as', 'you', 'enjoy', 'delicious', 'baba', 'ganoush', 'that', "'s", 'more', 'lemony', 'than', 'smoky', '.']
+['talented', 'dancers', 'belly', 'dancers', 'watch', 'enjoy', 'ganoush', 'enjoy', 'watch', 'enjoy']================
+
+================['oh', ',', 'and', 'there', "'s", 'hookah', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+["'s", 'hookah', "'s", 'and', "'s", 'oh', "'s", 'oh', "'s", '.']================
+
+================['raymond', 'the', 'bartender', 'rocks', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['raymond', 'the', '!', 'bartender', '!', 'bartender', '!', 'bartender', '!', 'bartender']================
+
+================['pacifico', 'is', 'a', 'great', 'place', 'to', 'casually', 'hang', 'out', '.', '<pad>']
+['pacifico', 'is', 'pacifico', 'is', 'pacifico', 'is', 'pacifico', 'is', 'pacifico', 'is']================
+
+================['the', 'drinks', 'are', 'great', ',', 'especially', 'when', 'made', 'by', 'raymond', '.']
+['the', 'drinks', 'are', 'made', 'especially', 'made', 'by', 'raymond', 'by', 'raymond']================
+
+================['the', 'drinks', 'are', 'great', ',', 'especially', 'when', 'made', 'by', 'raymond', '.']
+['by', 'made', 'especially', 'made', 'especially', 'made', 'are', '.', 'are', ',']================
+
+================['the', 'omlette', 'for', 'brunch', 'is', 'great', '...', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'omlette', 'is', 'great', 'is', 'great', 'is', 'great', 'is', 'omlette']================
+
+================['the', 'spinach', 'is', 'fresh', ',', 'definately', 'not', 'frozen', '...', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'spinach', 'is', 'frozen', 'definately', 'frozen', 'definately', 'frozen', ',', 'frozen']================
+
+================['quacamole', 'at', 'pacifico', 'is', 'yummy', ',', 'as', 'are', 'the', 'wings', 'with', 'chimmichuri', '.']
+['quacamole', 'at', 'yummy', 'as', 'yummy', ',', 'yummy', 'at', 'pacifico', 'is']================
+
+================['quacamole', 'at', 'pacifico', 'is', 'yummy', ',', 'as', 'are', 'the', 'wings', 'with', 'chimmichuri', '.']
+['the', 'wings', 'the', 'wings', 'the', 'wings', 'are', 'is', 'yummy', 'is']================
+
+================['a', 'weakness', 'is', 'the', 'chicken', 'in', 'the', 'salads', '.', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'chicken', 'is', 'weakness', 'a', 'weakness', 'a', 'weakness', 'a', 'weakness']================
+
+================['also', ',', 'i', 'personally', 'was', "n't", 'a', 'fan', 'of', 'the', 'portobello', 'and', 'asparagus', 'mole', '.']
+['the', 'mole', 'of', 'fan', 'a', 'fan', 'was', "n't", 'was', "n't"]================
+
+================['overall', ',', 'decent', 'food', 'at', 'a', 'good', 'price', ',', 'with', 'friendly', 'people', '.', '<pad>', '<pad>']
+['decent', 'food', ',', 'food', '.', 'food', 'decent', 'food', 'decent', 'food']================
+
+================['overall', ',', 'decent', 'food', 'at', 'a', 'good', 'price', ',', 'with', 'friendly', 'people', '.', '<pad>', '<pad>']
+['friendly', 'people', 'with', 'people', 'friendly', 'people', 'friendly', 'people', 'friendly', 'people']================
+
+================['best', 'indian', 'restaurant', 'in', 'the', 'city', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['best', 'restaurant', 'indian', 'restaurant', 'in', 'city', 'in', 'city', 'in', 'city']================
+
+================['decor', 'needs', 'to', 'be', 'upgraded', 'but', 'the', 'food', 'is', 'amazing', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['decor', 'needs', 'to', 'but', 'be', 'but', 'upgraded', 'but', 'upgraded', 'but']================
+
+================['decor', 'needs', 'to', 'be', 'upgraded', 'but', 'the', 'food', 'is', 'amazing', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'is', '!', 'is', 'amazing', 'is', 'amazing', 'is', 'amazing']================
+
+================['this', 'small', 'astoria', 'souvlaki', 'spot', 'makes', 'what', 'many', 'consider', 'the', 'best', 'gyros', 'in', 'new', 'york', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['best', 'gyros', 'consider', 'makes', 'spot', 'souvlaki', 'spot', 'souvlaki', 'astoria', 'souvlaki']================
+
+================['what', 'really', 'makes', 'it', 'shine', 'is', 'the', 'food', ',', 'which', 'is', 'aggressively', 'seasoned', 'with', 'cyrpriot', 'spices', ',', 'and', 'all', 'made', 'in', '-', 'house', '(', 'even', 'the', 'gyro', 'meat', 'and', 'sausages', ')', ',', 'and', 'made', 'of', 'much', 'higher', 'quality', 'ingredients', 'that', 'might', 'otherwise', 'be', 'expected', '.']
+['the', 'food', 'seasoned', 'with', 'seasoned', 'aggressively', 'seasoned', 'which', 'seasoned', 'aggressively']================
+
+================['what', 'really', 'makes', 'it', 'shine', 'is', 'the', 'food', ',', 'which', 'is', 'aggressively', 'seasoned', 'with', 'cyrpriot', 'spices', ',', 'and', 'all', 'made', 'in', '-', 'house', '(', 'even', 'the', 'gyro', 'meat', 'and', 'sausages', ')', ',', 'and', 'made', 'of', 'much', 'higher', 'quality', 'ingredients', 'that', 'might', 'otherwise', 'be', 'expected', '.']
+['the', 'meat', '(', 'meat', 'made', 'in', '-', 'in', 'house', 'in']================
+
+================['what', 'really', 'makes', 'it', 'shine', 'is', 'the', 'food', ',', 'which', 'is', 'aggressively', 'seasoned', 'with', 'cyrpriot', 'spices', ',', 'and', 'all', 'made', 'in', '-', 'house', '(', 'even', 'the', 'gyro', 'meat', 'and', 'sausages', ')', ',', 'and', 'made', 'of', 'much', 'higher', 'quality', 'ingredients', 'that', 'might', 'otherwise', 'be', 'expected', '.']
+['and', 'meat', 'made', 'in', 'house', 'in', 'house', 'in', 'house', 'in']================
+
+================['what', 'really', 'makes', 'it', 'shine', 'is', 'the', 'food', ',', 'which', 'is', 'aggressively', 'seasoned', 'with', 'cyrpriot', 'spices', ',', 'and', 'all', 'made', 'in', '-', 'house', '(', 'even', 'the', 'gyro', 'meat', 'and', 'sausages', ')', ',', 'and', 'made', 'of', 'much', 'higher', 'quality', 'ingredients', 'that', 'might', 'otherwise', 'be', 'expected', '.']
+['quality', 'ingredients', 'higher', 'ingredients', 'of', 'made', 'made', 'in', 'made', 'in']================
+
+================['all', 'the', 'various', 'greek', 'and', 'cypriot', 'dishes', 'are', 'excellent', ',', 'but', 'the', 'gyro', 'is', 'the', 'reason', 'to', 'come', '--', 'if', 'you', 'do', "n't", 'eat', 'one', 'your', 'trip', 'was', 'wasted', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['various', 'dishes', 'all', 'dishes', 'various', 'dishes', 'various', 'dishes', 'various', 'dishes']================
+
+================['all', 'the', 'various', 'greek', 'and', 'cypriot', 'dishes', 'are', 'excellent', ',', 'but', 'the', 'gyro', 'is', 'the', 'reason', 'to', 'come', '--', 'if', 'you', 'do', "n't", 'eat', 'one', 'your', 'trip', 'was', 'wasted', '.']
+['the', 'gyro', 'is', 'are', 'excellent', 'are', 'dishes', 'all', 'dishes', 'greek']================
+
+================['best', 'restaurant', 'in', 'brooklyn', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['best', 'restaurant', 'in', 'brooklyn', 'in', 'brooklyn', 'in', 'brooklyn', 'in', 'brooklyn']================
+
+================['great', 'food', ',', 'amazing', 'service', ',', 'this', 'place', 'is', 'a', 'class', 'act', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'food', 'service', 'amazing', 'service', 'amazing', 'service', 'amazing', 'service', 'amazing']================
+
+================['great', 'food', ',', 'amazing', 'service', ',', 'this', 'place', 'is', 'a', 'class', 'act', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['amazing', 'service', 'amazing', 'service', 'amazing', 'service', 'amazing', 'service', 'amazing', 'service']================
+
+================['great', 'food', ',', 'amazing', 'service', ',', 'this', 'place', 'is', 'a', 'class', 'act', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'is', 'food', 'great', 'food', 'service', 'amazing', 'service', 'amazing']================
+
+================['the', 'veal', 'was', 'incredible', 'last', 'night', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'veal', 'the', 'veal', 'the', 'veal', 'was', 'incredible', 'was', 'incredible']================
+
+================['this', 'place', 'is', 'a', 'must', 'visit', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'is', 'visit', 'must', 'visit', 'must', 'visit', 'must', 'visit']================
+
+================['most', 'of', 'the', 'booths', 'allow', 'you', 'to', 'sit', 'next', 'to', 'eachother', 'without', 'looking', 'like', "'", 'that', "'", 'couple', '.']
+['the', 'booths', 'of', 'most', 'of', 'booths', 'the', 'booths', 'the', 'booths']================
+
+================['the', 'food', 'is', 'all', 'shared', 'so', 'we', 'get', 'to', 'order', 'together', 'and', 'eat', 'together', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'shared', '.', 'shared', 'all', 'shared', '.', 'shared', '.']================
+
+================['i', "'ve", 'enjoyed', '99', '%', 'of', 'the', 'dishes', 'we', "'ve", 'ordered', 'with', 'the', 'only', 'exceptions', 'being', 'the', 'occasional', 'too', '-', 'authentic', '-', 'for', '-', 'me', 'dish', '(', 'i', "'m", 'a', 'daring', 'eater', 'but', 'not', 'that', 'daring', ')', '.', '<pad>', '<pad>']
+['the', 'of', '99', 'i', '99', 'i', '99', 'enjoyed', '99', "'ve"]================
+
+================['i', "'ve", 'enjoyed', '99', '%', 'of', 'the', 'dish', 'es', 'we', "'ve", 'ordered', 'with', 'the', 'only', 'exceptions', 'being', 'the', 'occasional', 'too', '-', 'authentic', '-', 'for', '-', 'me', '$', 't$', '(', 'i', "'m", 'a', 'daring', 'eater', 'but', 'not', 'that', 'daring', ')', '.']
+['the', 'es', 'the', 'of', '99', 'the', 'ordered', 'the', 'ordered', 'the']================
+
+================['my', 'daughter', "'s", 'wedding', 'reception', 'at', 'water', "'s", 'edge', 'received', 'the', 'highest', 'compliments', 'from', 'our', 'guests', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['at', 'reception', 'received', '.', 'received', 'compliments', 'the', 'compliments', 'highest', 'compliments']================
+
+================['everyone', 'raved', 'about', 'the', 'atmosphere', '(', 'elegant', 'rooms', 'and', 'absolutely', 'incomparable', 'views', ')', 'and', 'the', 'fabulous', 'food', '!']
+['the', 'atmosphere', 'rooms', 'views', 'incomparable', 'absolutely', 'incomparable', 'views', 'incomparable', 'views']================
+
+================['everyone', 'raved', 'about', 'the', 'atmosphere', '(', 'elegant', 'rooms', 'and', 'absolutely', 'incomparable', 'views', ')', 'and', 'the', 'fabulous', 'food', '!']
+['elegant', 'rooms', 'views', 'incomparable', 'absolutely', 'incomparable', 'absolutely', 'incomparable', 'absolutely', 'incomparable']================
+
+================['everyone', 'raved', 'about', 'the', 'atmosphere', '(', 'elegant', 'rooms', 'and', 'absolutely', 'incomparable', 'views', ')', 'and', 'the', 'fabulous', 'food', '!']
+['incomparable', 'absolutely', 'incomparable', 'absolutely', 'incomparable', 'absolutely', 'incomparable', 'absolutely', 'incomparable', 'absolutely']================
+
+================['everyone', 'raved', 'about', 'the', 'atmosphere', '(', 'elegant', 'rooms', 'and', 'absolutely', 'incomparable', 'views', ')', 'and', 'the', 'fabulous', 'food', '!']
+['fabulous', 'food', 'atmosphere', 'rooms', 'elegant', 'rooms', 'views', 'incomparable', 'absolutely', 'incomparable']================
+
+================['service', 'was', 'wonderful', ';', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['service', 'was', 'wonderful', ';', 'wonderful', ';', 'wonderful', ';', 'wonderful', ';']================
+
+================['paul', ',', 'the', 'maitre', 'd', "'", ',', 'was', 'totally', 'professional', 'and', 'always', 'on', 'top', 'of', 'things', '.']
+['paul', ',', 'totally', 'was', 'totally', 'and', 'always', 'and', 'professional', 'and']================
+
+================['thank', 'you', 'everyone', 'at', 'water', "'s", 'edge', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['at', 'thank', 'everyone', 'thank', 'you', 'thank', '.', 'thank', '.', 'thank']================
+
+================['service', 'ok', 'but', 'unfriendly', ',', 'filthy', 'bathroom', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['service', 'service', 'service', 'service', 'service', 'service', 'service', 'service', 'service', 'service']================
+
+================['service', 'ok', 'but', 'unfriendly', ',', 'filthy', 'bathroom', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['filthy', 'bathroom', '.', 'bathroom', 'unfriendly', 'bathroom', 'unfriendly', 'bathroom', 'unfriendly', 'bathroom']================
+
+================['the', 'high', 'prices', 'you', "'re", 'going', 'to', 'pay', 'is', 'for', 'the', 'view', 'not', 'for', 'the', 'food', '.']
+['the', 'view', 'the', 'view', 'for', 'not', 'for', 'not', 'for', 'not']================
+
+================['the', 'high', 'prices', 'you', "'re", 'going', 'to', 'pay', 'is', 'for', 'the', 'view', 'not', 'for', 'the', 'food', '.']
+['the', 'food', 'for', 'not', 'for', 'not', 'for', 'not', 'for', 'food']================
+
+================['the', 'bar', 'drinks', 'were', 'eh', ',', 'ok', 'to', 'say', 'the', 'least', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'drinks', 'the', 'drinks', 'the', 'drinks', 'the', 'drinks', 'the', 'drinks']================
+
+================['the', 'stuff', 'tilapia', 'was', 'horrid', '...', 'tasted', 'like', 'cardboard', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'tilapia', 'horrid', '...', 'horrid', 'was', 'horrid', 'was', 'horrid', 'was']================
+
+================['we', 'thought', 'the', 'dessert', 'would', 'be', 'better', ',', 'wrong', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'dessert', 'be', 'would', 'be', 'would', 'be', 'better', 'be', 'thought']================
+
+================['oh', 'speaking', 'of', 'bathroom', ',', 'the', 'mens', 'bathroom', 'was', 'disgusting', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'bathroom', 'mens', 'bathroom', 'was', 'disgusting', 'was', 'disgusting', 'was', 'disgusting']================
+
+================['the', 'wine', 'list', 'was', 'extensive', '-', 'though', 'the', 'staff', 'did', 'not', 'seem', 'knowledgeable', 'about', 'wine', 'pairings', '.']
+['the', 'list', 'wine', 'list', 'was', 'seem', 'knowledgeable', 'about', 'pairings', 'about']================
+
+================['the', 'wine', 'list', 'was', 'extensive', '-', 'though', 'the', 'staff', 'did', 'not', 'seem', 'knowledgeable', 'about', 'wine', 'pairings', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'staff', 'seem', 'did', 'seem', 'not', 'seem', 'not', 'seem', 'was']================
+
+================['the', 'bread', 'we', 'received', 'was', 'horrible', '-', 'rock', 'hard', 'and', 'cold', '-', 'and', 'the', '"', 'free', '"', 'appetizer', 'of', 'olives', 'was', 'disappointing', '.']
+['the', 'bread', 'was', 'was', 'disappointing', 'was', 'disappointing', 'was', 'disappointing', 'was']================
+
+================['the', 'bread', 'we', 'received', 'was', 'horrible', '-', 'rock', 'hard', 'and', 'cold', '-', 'and', 'the', '"', 'free', '"', 'appetizer', 'of', 'olives', 'was', 'disappointing', '.']
+['"', 'appetizer', 'hard', 'cold', 'hard', 'rock', 'horrible', 'rock', 'horrible', 'rock']================
+
+================['however', ',', 'our', 'main', 'course', 'was', 'wonderful', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['our', 'course', 'was', ',', 'was', 'wonderful', 'was', 'wonderful', 'was', 'wonderful']================
+
+================['i', 'had', 'fish', 'and', 'my', 'husband', 'had', 'the', 'filet', '-', 'both', 'of', 'which', 'exceeded', 'our', 'expectations', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['had', 'and', 'had', 'fish', 'had', 'i', 'had', 'i', 'had', 'i']================
+
+================['i', 'had', 'fish', 'and', 'my', 'husband', 'had', 'the', 'filet', '-', 'both', 'of', 'which', 'exceeded', 'our', 'expectations', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'filet', 'the', 'filet', 'had', 'filet', 'the', 'filet', 'had', 'filet']================
+
+================['the', 'dessert', '(', 'we', 'had', 'a', 'pear', 'torte', ')', 'was', 'good', '-', 'but', ',', 'once', 'again', ',', 'the', 'staff', 'was', 'unable', 'to', 'provide', 'appropriate', 'drink', 'suggestions', '.']
+['a', 'torte', 'pear', 'torte', 'pear', 'torte', 'pear', 'torte', 'pear', 'torte']================
+
+================['the', 'dessert', '(', 'we', 'had', 'a', 'pear', 'torte', ')', 'was', 'good', '-', 'but', ',', 'once', 'again', ',', 'the', 'staff', 'was', 'unable', 'to', 'provide', 'appropriate', 'drink', 'suggestions', '.']
+['the', 'staff', 'was', 'unable', 'was', 'unable', 'was', ',', 'was', 'staff']================
+
+================['when', 'we', 'inquired', 'about', 'ports', '-', 'the', 'waitress', 'listed', 'off', 'several', 'but', 'did', 'not', 'know', 'taste', 'variations', 'or', 'cost', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'waitress', 'listed', 'off', 'listed', 'inquired', 'when', 'inquired', 'about', 'inquired']================
+
+================['not', 'what', 'i', 'would', 'expect', 'for', 'the', 'price', 'and', 'prestige', 'of', 'this', 'location', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'location', 'of', 'location', 'of', 'price', 'for', 'expect', 'would', 'expect']================
+
+================['all', 'in', 'all', ',', 'i', 'would', 'return', '-', 'as', 'it', 'was', 'a', 'beautiful', 'restaurant', '-', 'but', 'i', 'hope', 'the', 'staff', 'pays', 'more', 'attention', 'to', 'the', 'little', 'details', 'in', 'the', 'future', '.']
+['beautiful', 'restaurant', 'beautiful', 'restaurant', 'beautiful', 'restaurant', 'beautiful', 'restaurant', 'beautiful', 'restaurant']================
+
+================['all', 'in', 'all', ',', 'i', 'would', 'return', '-', 'as', 'it', 'was', 'a', 'beautiful', 'restaurant', '-', 'but', 'i', 'hope', 'the', 'staff', 'pays', 'more', 'attention', 'to', 'the', 'little', 'details', 'in', 'the', 'future', '.']
+['the', 'staff', 'the', 'staff', 'the', 'staff', 'the', 'staff', 'the', 'staff']================
+
+================['short', 'and', 'sweet', '–', 'seating', 'is', 'great', ':', 'it', "'s", 'romantic', ',', 'cozy', 'and', 'private', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['–', 'seating', 'short', 'sweet', 'short', 'sweet', 'short', 'sweet', 'short', 'sweet']================
+
+================['the', 'boths', 'are', 'not', 'as', 'small', 'as', 'some', 'of', 'the', 'reviews', 'make', 'them', 'out', 'to', 'look', 'they', "'re", 'perfect', 'for', '2', 'people', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'boths', 'the', 'boths', 'the', 'boths', 'the', 'boths', 'are', 'boths']================
+
+================['the', 'service', 'was', 'extremely', 'fast', 'and', 'attentive(thanks', 'to', 'the', '$', 't$', 'button', 'on', 'your', 'table', ')', 'but', 'i', 'barely', 'understood', '1', 'word', 'when', 'the', 'waiter', 'took', 'our', 'order', '.']
+['the', 'service', 'was', 'understood', 'word', '1', 'word', '1', 'word', '1']================
+
+================['the', 'service', 'was', 'extremely', 'fast', 'and', 'attentive(thanks', 'to', 'the', 'service', 'button', 'on', 'your', 'table', ')', 'but', 'i', 'barely', 'understood', '1', 'word', 'when', 'the', 'waiter', 'took', 'our', 'order', '.', '<pad>']
+['the', 'button', 'the', 'button', 'the', 'button', 'service', 'button', 'service', 'button']================
+
+================['the', 'service', 'was', 'extremely', 'fast', 'and', 'attentive(thanks', 'to', 'the', 'service', 'button', 'on', 'your', 'table', ')', 'but', 'i', 'barely', 'understood', '1', 'word', 'when', 'the', 'waiter', 'took', 'our', 'order', '.']
+['the', 'waiter', 'took', 'when', 'took', 'when', 'took', 'when', 'took', 'when']================
+
+================['the', 'food', 'was', 'ok', 'and', 'fair', 'nothing', 'to', 'go', 'crazy', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'was', 'ok', 'was', 'ok', 'and', 'ok', 'and', 'ok']================
+
+================['over', 'all', 'the', 'looks', 'of', 'the', 'place', 'exceeds', 'the', 'actual', 'meals', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'looks', 'all', 'looks', 'over', 'exceeds', '.', 'exceeds', '.', 'exceeds']================
+
+================['over', 'all', 'the', 'looks', 'of', 'the', 'place', 'exceeds', 'the', 'actual', 'meals', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['actual', 'meals', 'actual', 'meals', 'actual', 'meals', 'actual', 'meals', 'actual', 'meals']================
+
+================['so', 'what', 'you', 'really', 'end', 'up', 'paying', 'for', 'is', 'the', 'restaurant', 'not', 'the', 'food', '.']
+['the', 'restaurant', 'not', 'restaurant', 'is', 'end', 'paying', 'for', 'paying', 'end']================
+
+================['so', 'what', 'you', 'really', 'end', 'up', 'paying', 'for', 'is', 'the', 'restaurant', 'not', 'the', 'food', '.']
+['the', 'food', 'restaurant', 'not', 'restaurant', 'not', 'restaurant', 'not', 'restaurant', 'not']================
+
+================['subtle', 'food', 'and', 'service', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['subtle', 'food', 'subtle', 'food', 'subtle', 'food', 'subtle', 'food', 'subtle', 'food']================
+
+================['subtle', 'food', 'and', 'service', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['and', 'food', 'subtle', 'food', 'subtle', 'food', 'subtle', 'food', 'subtle', 'food']================
+
+================['noodle', 'pudding', 'is', 'exactly', 'the', 'type', 'of', 'service', 'and', 'food', 'i', 'enjoy', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['of', 'type', 'enjoy', 'i', 'enjoy', 'i', 'enjoy', 'i', 'enjoy', 'type']================
+
+================['noodle', 'pudding', 'is', 'exactly', 'the', 'type', 'of', 'service', 'and', 'food', 'i', 'enjoy', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['and', 'service', 'of', 'type', 'enjoy', 'i', 'enjoy', 'i', 'enjoy', 'i']================
+
+================['servers', 'are', 'all', 'different', ',', 'greg', 'is', 'my', 'favorite', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+[',', 'is', 'favorite', 'my', 'favorite', 'my', 'favorite', 'my', 'favorite', 'is']================
+
+================['sometimes', 'tables', 'do', "n't", 'understand', 'his', 'sense', 'of', 'humor', 'but', 'it', "'s", 'refreshing', 'to', 'have', 'a', 'server', 'who', 'has', 'personality', ',', 'professionalism', ',', 'and', 'respects', 'the', 'privacy', 'of', 'your', 'dinner', '.']
+['a', 'server', 'has', 'personality', 'professionalism', 'personality', 'professionalism', 'personality', 'has', 'server']================
+
+================['this', 'is', 'the', 'first', 'place', 'i', "'ve", 'been', 'that', 'a', 'runner', 'remembers', 'my', 'order', '...', 'hope', 'he', 'likes', 'his', 'job', 'because', 'i', 'have', 'half', 'a', 'mind', 'to', 'steal', 'him', 'for', 'my', 'restaurant', '.']
+['a', 'my', 'a', 'my', 'place', 'that', 'i', 'that', "'ve", 'that']================
+
+================['prices', 'are', 'fair', 'across', 'the', 'board', 'for', 'both', 'food', 'and', 'bev', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['both', 'food', 'for', 'are', 'across', 'board', 'across', 'are', 'fair', 'are']================
+
+================['prices', 'are', 'fair', 'across', 'the', 'board', 'for', 'both', 'food', 'and', 'bev', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['and', 'food', 'for', 'are', 'fair', 'are', 'fair', 'are', '.', 'are']================
+
+================['i', 'go', 'out', 'to', 'eat', 'and', 'like', 'my', 'courses', ',', 'servers', 'are', 'patient', 'and', 'never', 'rush', 'courses', 'or', 'force', 'another', 'drink', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+[',', 'are', 'and', 'are', 'patient', 'are', 'servers', 'are', 'go', 'i']================
+
+================['amazing', 'fresh', 'dogs', 'but', 'best', 'of', 'all', 'endless', 'toppings', '!', '!', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['fresh', 'dogs', '!', 'dogs', 'amazing', 'dogs', 'amazing', 'dogs', '!', 'dogs']================
+
+================['amazing', 'fresh', 'dogs', 'but', 'best', 'of', 'all', 'endless', 'toppings', '!', '!', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['endless', 'toppings', 'of', 'best', 'dogs', '!', 'dogs', 'fresh', 'dogs', '!']================
+
+================['this', 'place', 'had', 'all', 'the', 'trimmings', 'and', 'i', 'mean', 'all', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'trimmings', 'had', 'mean', 'i', 'mean', 'i', 'mean', 'i', 'mean']================
+
+================['amazing', 'fun', 'for', 'hot', 'dog', 'lovers', 'of', 'all', 'ages', 'please', 'do', 'yourself', 'a', 'favor', 'and', 'check', 'this', 'place', 'out', '!', '!', '!', '!']
+['this', 'place', 'this', 'place', 'check', 'do', '!', 'do', 'fun', 'amazing']================
+
+================['amazing', 'fun', 'for', 'hot', 'dog', 'lovers', 'of', 'all', 'ages', 'please', 'do', 'yourself', 'a', 'favor', 'and', 'check', 'this', 'place', 'out', '!', '!', '!', '!']
+['for', 'fun', 'amazing', 'fun', 'amazing', 'fun', 'amazing', 'fun', 'amazing', 'fun']================
+
+================['stepping', 'into', 'casa', 'la', 'femme', 'last', 'night', 'was', 'a', 'true', 'experience', 'unlike', 'any', 'other', 'in', 'new', 'york', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['into', 'stepping', 'night', 'stepping', 'into', 'casa', 'into', 'casa', 'into', 'casa']================
+
+================['highly', 'impressed', 'from', 'the', 'decor', 'to', 'the', 'food', 'to', 'the', 'hospitality', 'to', 'the', 'great', 'night', 'i', 'had', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'decor', 'from', 'impressed', 'to', 'hospitality', 'to', 'hospitality', 'to', 'hospitality']================
+
+================['highly', 'impressed', 'from', 'the', 'decor', 'to', 'the', 'food', 'to', 'the', 'hospitality', 'to', 'the', 'great', 'night', 'i', 'had', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'to', 'impressed', 'to', 'hospitality', 'to', 'hospitality', 'to', 'night']================
+
+================['the', 'have', 'a', 'great', 'cocktail', 'with', 'citrus', 'vodka', 'and', 'lemon', 'and', 'lime', 'juice', 'and', 'mint', 'leaves', 'that', 'is', 'to', 'die', 'for', '!']
+['great', 'cocktail', 'with', 'vodka', 'and', 'vodka', 'citrus', 'vodka', 'citrus', 'vodka']================
+
+================['food', 'took', 'some', 'time', 'to', 'prepare', ',', 'all', 'worth', 'waiting', 'for', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['food', 'took', 'some', ',', 'some', 'all', 'some', 'all', 'some', 'all']================
+
+================['we', 'were', 'drawn', 'into', 'the', 'belly', 'dancing', 'show', 'that', 'captivated', 'the', 'crowd', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'show', 'dancing', 'show', 'captivated', 'that', 'captivated', 'show', 'captivated', 'show']================
+
+================['i', 'never', 'write', 'on', 'these', 'sites', 'but', 'this', 'restaurant', 'is', 'def', 'worth', 'commending', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'restaurant', 'is', 'write', 'i', 'write', 'never', 'write', 'never', 'write']================
+
+================['maggot', 'in', 'the', 'food', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'the', 'food', 'the', 'food', 'the', 'food', 'the', 'food']================
+
+================['the', 'menu', 'looked', 'great', ',', 'and', 'the', 'waiter', 'was', 'very', 'nice', ',', 'but', 'when', 'the', 'food', 'came', ',', 'it', 'was', 'average', '.']
+['the', 'menu', 'looked', 'was', 'nice', 'very', 'nice', 'very', 'nice', 'very']================
+
+================['the', 'menu', 'looked', 'great', ',', 'and', 'the', 'waiter', 'was', 'very', 'nice', ',', 'but', 'when', 'the', 'food', 'came', ',', 'it', 'was', 'average', '.']
+['the', 'waiter', 'was', 'nice', 'very', 'nice', 'very', 'nice', 'very', 'nice']================
+
+================['the', 'menu', 'looked', 'great', ',', 'and', 'the', 'waiter', 'was', 'very', 'nice', ',', 'but', 'when', 'the', 'food', 'came', ',', 'it', 'was', 'average', '.']
+['the', 'food', 'came', 'was', ',', 'was', 'average', 'was', 'average', 'was']================
+
+================['nevertheless', ',', 'i', 'finished', 'my', 'plate', ',', 'and', 'that', "'s", 'when', 'i', 'found', 'a', 'maggot', 'in', 'mushroom', 'sauce', 'at', 'the', 'bottom', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['in', 'maggot', 'found', "'s", 'found', 'when', 'found', "'s", 'finished', 'plate']================
+
+================['i', 'showed', 'it', 'to', 'the', 'manager', ',', 'and', 'he', 'smilingly', 'apologized', 'and', 'brought', 'us', 'two', 'free', 'desserts', '(', 'but', 'did', 'not', 'ask', 'us', 'what', 'we', 'wanted', 'and', 'so', 'brought', 'the', 'last', 'two', 'desserts', 'we', 'would', 'have', 'asked', 'for', ')', '.']
+['the', 'manager', 'to', 'showed', 'and', 'showed', 'i', 'showed', 'i', 'showed']================
+
+================['the', 'manager', 'finally', 'said', 'he', 'would', 'comp', 'the', 'two', 'glasses', 'of', 'wine', '(', 'which', 'cost', 'less', 'than', 'the', 'food', ')', ',', 'and', 'made', 'it', 'seem', 'like', 'a', 'big', 'concession', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'manager', 'said', 'and', 'said', 'finally', 'said', 'finally', 'said', 'made']================
+
+================['i', 'have', 'worked', 'in', 'restaurants', 'and', 'cook', 'a', 'lot', ',', 'and', 'there', 'is', 'no', 'way', 'a', 'maggot', 'should', 'be', 'able', 'to', 'get', 'into', 'well', 'prepared', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['prepared', 'food', 'into', 'get', 'able', 'get', 'able', 'be', 'able', 'get']================
+
+================['for', 'a', 'restaurant', 'with', 'such', 'a', 'good', 'reputation', 'and', 'that', 'is', 'usually', 'so', 'packed', ',', 'there', 'was', 'no', 'reason', 'for', 'such', 'a', 'lack', 'of', 'intelligent', 'customer', 'service', '.']
+['a', 'restaurant', 'with', 'reputation', 'such', 'reputation', 'with', 'reputation', 'such', 'reputation']================
+
+================['for', 'a', 'restaurant', 'with', 'such', 'a', 'good', 'reputation', 'and', 'that', 'is', 'usually', 'so', 'packed', ',', 'there', 'was', 'no', 'reason', 'for', 'such', 'a', 'lack', 'of', 'intelligent', 'customer', 'service', '.']
+['intelligent', 'service', 'of', 'lack', 'for', 'lack', 'of', 'lack', 'for', 'reason']================
+
+================['i', 'got', 'hair', 'in', 'my', 'food', '2', 'times', 'of', 'then', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['my', 'food', 'in', 'got', 'times', '2', 'times', 'of', 'times', 'of']================
+
+================['great', 'place', ',', 'great', 'value', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'place', 'value', 'great', 'value', 'great', 'value', 'great', 'value', 'great']================
+
+================['the', 'food', 'is', 'flavorful', ',', 'plentiful', 'and', 'reasonably', 'priced', '.', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'is', 'flavorful', ',', 'flavorful', 'plentiful', 'and', 'plentiful', 'flavorful']================
+
+================['the', 'atmosphere', 'is', 'relaxed', 'and', 'casual', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'atmosphere', 'relaxed', 'is', 'relaxed', '.', 'relaxed', '.', 'relaxed', '.']================
+
+================['it', "'s", 'a', 'great', 'place', 'to', 'order', 'from', 'or', 'sit', '-', 'in', '.']
+['great', 'place', 'great', 'place', 'great', 'place', 'great', 'place', 'great', 'place']================
+
+================['sushi', 'experience', 'was', 'unbelievable', 'with', 'my', 'fiance', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['sushi', 'experience', 'was', 'unbelievable', 'with', 'unbelievable', 'was', 'unbelievable', 'with', 'unbelievable']================
+
+================['good', 'creative', 'rolls', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['creative', 'rolls', 'good', 'rolls', '!', 'rolls', '!', 'rolls', '!', 'rolls']================
+
+================['yamato', 'is', 'an', 'excellent', 'place', 'to', 'go', 'if', 'you', 're', 'not', 'into', 'sashimi', ',', 'or', 'if', 'you', 'have', 'friends', 'who', 'does', 'nt', 'like', 'sushi', 'much', '.']
+['yamato', 'is', 'an', 'or', 'an', 'to', 'excellent', 'to', 'an', 'friends']================
+
+================['they', 'have', 'great', 'rolls', ',', 'the', 'triple', 'color', 'and', 'norwegetan', '$', 't$', ',', 'are', 'awesome', 'and', 'filling', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'rolls', 'color', 'triple', 'color', 'triple', 'color', 'triple', 'color', 'rolls']================
+
+================['they', 'have', 'great', 'rolls', ',', 'the', 'triple', 'color', 'and', 'norwegetan', 'rolls', ',', 'are', 'awesome', 'and', 'filling', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'color', 'triple', 'color', 'triple', 'color', 'triple', 'color', 'triple', 'color']================
+
+================['one', 'special', 'roll', 'and', 'one', 'regular', 'roll', 'is', 'enough', 'to', 'fill', 'you', 'up', ',', 'but', 'save', 'room', 'for', 'dessert', '!']
+['for', 'dessert', 'for', 'room', 'save', 'room', 'save', 'is', '!', 'is']================
+
+================['one', 'special', 'roll', 'and', 'one', 'regular', 'roll', 'is', 'enough', 'to', 'fill', 'you', 'up', ',', 'but', 'save', 'room', 'for', 'dessert', '!']
+['one', 'roll', 'one', 'roll', 'roll', 'one', 'roll', 'one', 'roll', 'one']================
+
+================['one', 'special', 'roll', 'and', 'one', 'regular', 'roll', 'is', 'enough', 'to', 'fill', 'you', 'up', ',', 'but', 'save', 'room', 'for', 'dessert', '!']
+['one', 'roll', 'one', 'roll', 'one', 'roll', 'one', 'roll', 'one', 'roll']================
+
+================['they', 'have', 'a', 'delicious', 'banana', 'chocolate', 'dessert', ',', 'as', 'well', 'as', 'a', 'great', 'green', 'tea', 'tempura', '.', '<pad>', '<pad>', '<pad>']
+['delicious', 'dessert', 'as', 'well', 'as', 'dessert', 'delicious', 'dessert', 'delicious', 'dessert']================
+
+================['they', 'have', 'a', 'delicious', 'banana', 'chocolate', 'dessert', ',', 'as', 'well', 'as', 'a', 'great', 'green', 'tea', 'tempura', '.']
+['great', 'tempura', 'dessert', 'delicious', 'dessert', 'chocolate', 'banana', 'chocolate', 'banana', 'chocolate']================
+
+================['the', 'appetizers', 'are', 'also', 'delicious', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'appetizers', 'the', 'appetizers', 'are', 'delicious', 'are', 'delicious', 'are', 'delicious']================
+
+================['amazing', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['amazing', 'food', 'amazing', 'food', 'amazing', 'food', 'amazing', 'food', 'amazing', 'food']================
+
+================['mazing', 'interior', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['mazing', '.', 'mazing', 'interior', 'mazing', 'interior', 'mazing', 'interior', 'mazing', 'interior']================
+
+================['great', 'food', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'food', 'great', 'food', '!', 'food', '!', 'food', '!', 'food']================
+
+================['i', "'ve", 'had', 'my', 'fair', 'share', 'of', 'modern', 'japanese', 'and', 'this', 'spot', 'delivers', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['of', 'fair', 'of', 'this', 'of', 'my', 'i', 'my', 'i', 'my']================
+
+================['the', 'atmosphere', 'was', 'pretty', 'nice', 'but', 'had', 'a', 'bit', 'lacking', ',', 'which', 'it', 'tries', 'to', 'make', 'up', 'for', 'with', 'a', 'crazy', 'scheme', 'of', 'mirrors', '.']
+['the', 'atmosphere', 'was', 'had', 'lacking', 'bit', 'lacking', 'had', 'lacking', 'bit']================
+
+================['the', 'atmosphere', 'was', 'pretty', 'nice', 'but', 'had', 'a', 'bit', 'lacking', ',', 'which', 'it', 'tries', 'to', 'make', 'up', 'for', 'with', 'a', 'crazy', 'scheme', 'of', 'mirrors', '.']
+['crazy', 'scheme', 'with', 'make', 'up', 'make', 'up', 'make', 'up', 'make']================
+
+================['despite', 'the', 'confusing', 'mirrors', 'this', 'will', 'likely', 'be', 'my', 'go', '-', 'to', 'for', 'modern', 'japanese', 'food', 'for', 'the', 'foreseeable', 'future', '.']
+['for', 'to', 'for', 'future', 'for', 'to', 'go', 'my', 'go', 'my']================
+
+================['despite', 'the', 'confusing', 'mirrors', 'this', 'will', 'likely', 'be', 'my', 'go', '-', 'to', 'for', 'modern', 'japanese', 'food', 'for', 'the', 'foreseeable', 'future', '.']
+['confusing', 'mirrors', 'despite', 'be', '.', 'be', 'likely', 'be', 'likely', 'be']================
+
+================['indo', 'chinese', 'food', ',', 'pretty', 'good', '...', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['indo', 'chinese', 'indo', 'chinese', 'indo', 'chinese', 'indo', 'chinese', 'indo', 'chinese']================
+
+================['not', 'a', 'very', 'fancy', 'place', 'but', 'very', 'good', 'chinese', 'style', 'indian', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['fancy', 'place', 'food', 'place', 'not', 'place', 'not', 'place', 'not', 'place']================
+
+================['not', 'a', 'very', 'fancy', 'place', 'but', 'very', 'good', 'chinese', 'style', 'indian', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['good', 'style', 'chinese', 'style', 'chinese', 'style', 'food', 'indian', 'food', 'indian']================
+
+================['the', 'chicken', 'lollipop', 'is', 'my', 'favorite', ',', 'most', 'of', 'the', 'dishes', '(', 'i', 'have', 'to', 'agree', 'with', 'a', 'previous', 'reviewer', ')', 'are', 'quite', 'oily', 'and', 'very', 'spicy', ',', 'espeically', 'the', 'chilli', 'chicken', '.']
+['the', 'lollipop', 'chicken', 'lollipop', 'chicken', 'lollipop', 'chicken', 'lollipop', 'chicken', 'lollipop']================
+
+================['the', 'chicken', 'lollipop', 'is', 'my', 'favorite', ',', 'most', 'of', 'the', 'dishes', '(', 'i', 'have', 'to', 'agree', 'with', 'a', 'previous', 'reviewer', ')', 'are', 'quite', 'oily', 'and', 'very', 'spicy', ',', 'espeically', 'the', 'chilli', 'chicken', '.']
+['the', 'dishes', 'of', 'most', 'of', 'most', 'of', 'most', 'of', 'most']================
+
+================['the', 'chicken', 'lollipop', 'is', 'my', 'favorite', ',', 'most', 'of', 'the', 'dishes', '(', 'i', 'have', 'to', 'agree', 'with', 'a', 'previous', 'reviewer', ')', 'are', 'quite', 'oily', 'and', 'very', 'spicy', ',', 'espeically', 'the', 'chilli', 'chicken', '.']
+['the', 'chicken', 'are', 'oily', 'quite', 'oily', 'quite', 'oily', 'are', 'oily']================
+
+================['my', 'mom', 'originally', 'introduced', 'me', 'to', 'this', 'place', ',', 'but', 'even', 'she', '(', 'being', 'indian', ')', 'feels', 'the', 'food', 'can', 'be', 'somewhat', 'over', 'the', 'top', 'spicy', 'and', 'far', 'too', 'oily', '.']
+['the', 'food', 'be', 'oily', 'be', 'oily', 'too', 'oily', 'too', 'oily']================
+
+================['i', 'was', 'speechless', 'by', 'the', 'horrible', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['horrible', 'food', 'horrible', 'food', 'horrible', 'food', 'horrible', 'food', 'horrible', 'food']================
+
+================['i', 'attended', 'a', 'holiday', 'dinner', 'at', 'the', 'restaurant', ',', 'and', 'the', 'food', 'was', 'majorly', 'disappointing', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'was', 'disappointing', 'majorly', 'disappointing', 'majorly', 'disappointing', 'majorly', 'disappointing']================
+
+================['rather', 'than', 'preparing', 'vegetarian', 'dish', ',', 'the', 'chef', 'presented', 'me', 'with', 'a', 'plate', 'of', 'steamed', 'vegetables', '(', 'minus', 'sauce', ',', 'seasoning', ',', 'or', 'any', 'form', 'or', 'aesthetic', 'presentation', ')', '.', '<pad>']
+['the', 'chef', 'presented', 'sauce', 'seasoning', ',', 'seasoning', ',', 'seasoning', ',']================
+
+================['rather', 'than', 'preparing', 'vegetarian', 'dish', ',', 'the', 'chef', 'presented', 'me', 'with', 'a', 'plate', 'of', 'steamed', 'vegetables', '(', 'minus', 'sauce', ',', 'seasoning', ',', 'or', 'any', 'form', 'or', 'aesthetic', 'presentation', ')', '.']
+['preparing', 'than', 'presented', 'chef', 'the', 'chef', 'the', 'chef', 'the', 'chef']================
+
+================['this', 'place', 'survives', 'on', 'reputation', 'alone', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'survives', 'on', 'reputation', 'on', 'reputation', 'on', 'reputation', 'on']================
+
+================['this', 'is', 'the', 'most', 'wonderful', 'restaurant', 'in', 'all', 'of', 'new', 'york', 'city', ',', 'not', 'just', 'brooklyn', '...', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['wonderful', 'most', 'wonderful', 'most', 'wonderful', 'most', 'wonderful', 'most', 'wonderful', 'most']================
+
+================['for', '7', 'years', 'they', 'have', 'put', 'out', 'the', 'most', 'tasty', ',', 'most', 'delicious', 'food', 'and', 'kept', 'it', 'that', 'way', '...', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['delicious', 'most', 'delicious', 'most', 'delicious', 'most', 'delicious', 'most', 'delicious', 'food']================
+
+================['never', 'swaying', ',', 'never', 'a', 'bad', 'meal', ',', 'never', 'bad', 'service', '...', '<pad>', '<pad>']
+['bad', 'meal', 'swaying', 'never', 'swaying', 'never', 'swaying', 'never', 'swaying', 'never']================
+
+================['never', 'swaying', ',', 'never', 'a', 'bad', 'meal', ',', 'never', 'bad', 'service', '...', '<pad>', '<pad>']
+['bad', 'service', 'meal', 'swaying', 'never', 'swaying', 'never', 'swaying', 'never', 'swaying']================
+
+================['great', 'food', ',', 'great', 'wine', 'list', ',', 'great', 'service', 'in', 'a', 'great', 'neighborhood', '...']
+['great', 'food', ',', 'food', 'service', 'in', 'neighborhood', 'great', 'neighborhood', 'in']================
+
+================['great', 'food', ',', 'great', 'wine', 'list', ',', 'great', 'service', 'in', 'a', 'great', 'neighborhood', '...']
+['great', 'list', 'food', 'great', 'food', 'service', 'in', 'neighborhood', 'in', 'neighborhood']================
+
+================['great', 'food', ',', 'great', 'wine', 'list', ',', 'great', 'service', 'in', 'a', 'great', 'neighborhood', '...']
+['great', 'service', 'great', 'service', 'great', 'service', 'in', 'neighborhood', 'in', 'neighborhood']================
+
+================['great', 'food', ',', 'great', 'wine', 'list', ',', 'great', 'service', 'in', 'a', 'great', 'neighborhood', '...']
+['great', 'neighborhood', 'in', 'service', 'in', 'neighborhood', 'in', 'neighborhood', 'in', 'neighborhood']================
+
+================['patsy', "'s", 'pizza', '=', 'true', 'love', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['patsy', "'s", 'pizza', "'s", 'pizza', "'s", '=', 'true', '=', 'true']================
+
+================['hands', 'down', 'the', 'best', 'pizza', 'on', 'the', 'planet', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['best', 'pizza', 'hands', 'pizza', 'best', 'pizza', 'hands', '.', 'hands', '.']================
+
+================['great', 'hot', 'dogs', '..', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'dogs', 'great', 'dogs', 'great', 'dogs', 'great', 'dogs', 'great', 'dogs']================
+
+================['the', 'hot', 'dogs', 'were', 'juicy', 'and', 'tender', 'inside', 'and', 'had', 'plenty', 'of', 'crunch', 'and', 'snap', 'on', 'the', 'outside', '.', '<pad>']
+['the', 'dogs', 'the', 'dogs', 'were', 'juicy', 'and', 'juicy', 'tender', 'juicy']================
+
+================['great', 'toppings', 'definitely', 'a', 'place', 'you', 'need', 'to', 'check', 'out', 'for', 'late', 'night', 'munchies', 'or', 'a', 'mid', 'day', 'boost', '!']
+['great', 'toppings', 'great', 'toppings', 'place', '!', 'place', '!', 'place', '!']================
+
+================['great', 'toppings', 'definitely', 'a', 'place', 'you', 'need', 'to', 'check', 'out', 'for', 'late', 'night', 'munchies', 'or', 'a', 'mid', 'day', 'boost', '!']
+['a', 'place', 'definitely', 'place', '!', 'place', '!', 'place', '!', 'place']================
+
+================['for', 'me', 'dishes', 'a', 'little', 'oily', ',', 'but', 'overall', 'dining', 'experience', 'good', '.', '<pad>', '<pad>', '<pad>']
+['me', 'for', 'dishes', 'oily', 'dishes', 'but', 'dishes', 'oily', 'dishes', 'oily']================
+
+================['helpful', 'service', 'and', 'average', 'price', 'per', 'dish', '$', '10', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['helpful', 'service', 'per', 'dish', 'per', 'dish', 'per', 'dish', 'per', 'dish']================
+
+================['helpful', 'service', 'and', 'average', 'price', 'per', 'dish', '$', '10', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['per', 'service', '.', 'service', 'price', 'average', 'price', 'average', 'price', 'average']================
+
+================['the', 'only', 'thing', 'that', 'strikes', 'you', 'is', 'the', 'decor', '?', '(', 'not', 'very', 'pleasant', ')', '.']
+['the', 'decor', 'is', 'thing', 'the', 'thing', 'the', 'thing', 'is', 'thing']================
+
+================['great', 'food', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'food', 'great', 'food', 'great', 'food', 'great', 'food', 'great', 'food']================
+
+================['this', 'place', 'has', 'great', 'indian', 'chinese', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'food', 'chinese', 'food', 'has', '.', 'has', '.', 'has', '.']================
+
+================['be', 'prepared', 'to', 'wait', ',', 'because', 'the', 'place', 'is', 'pretty', 'tiny', '.', '<pad>', '<pad>']
+['the', 'place', 'is', 'tiny', 'pretty', 'tiny', 'pretty', 'tiny', 'pretty', 'tiny']================
+
+================['even', 'though', 'the', 'place', 'is', 'not', 'beautiful', ',', 'the', 'food', 'speaks', 'for', 'itself', '.']
+['the', 'place', 'the', 'place', 'is', 'not', 'is', 'not', 'is', 'not']================
+
+================['even', 'though', 'the', 'place', 'is', 'not', 'beautiful', ',', 'the', 'food', 'speaks', 'for', 'itself', '.', '<pad>', '<pad>']
+['the', 'food', 'speaks', 'is', 'beautiful', 'is', 'beautiful', 'is', 'place', 'the']================
+
+================['best', 'indian', 'chinese', 'in', 'the', 'city', ',', 'by', 'far', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['best', 'chinese', '!', 'chinese', 'in', 'chinese', '!', 'chinese', '!', 'chinese']================
+
+================['i', 'came', 'across', 'village', 'underground', 'by', 'accident', ',', 'now', 'i', 'go', 'there', 'all', 'the', 'time', '.']
+['across', 'came', 'by', 'came', 'go', 'i', 'go', 'i', 'go', '.']================
+
+================['the', 'martinis', 'are', 'amazing', 'and', 'very', 'fairly', 'priced', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'martinis', 'are', 'amazing', 'and', 'amazing', 'and', 'amazing', 'and', 'amazing']================
+
+================['the', 'service', 'is', 'amazing', ',', 'i', "'ve", 'had', 'different', 'waiters', 'and', 'they', 'were', 'all', 'nice', ',', 'which', 'is', 'a', 'rare', 'thing', 'in', 'nyc', '.', '<pad>', '<pad>']
+['the', 'service', 'is', 'different', 'i', 'different', 'i', 'different', 'is', 'amazing']================
+
+================['the', 'service', 'is', 'amazing', ',', 'i', "'ve", 'had', 'different', 'waiters', 'and', 'they', 'were', 'all', 'nice', ',', 'which', 'is', 'a', 'rare', 'thing', 'in', 'nyc', '.', '<pad>', '<pad>']
+['different', 'and', 'different', 'and', 'different', 'i', 'different', 'i', 'different', 'i']================
+
+================['the', 'dj', 'is', 'awesome', ',', 'i', 'have', 'been', 'there', 'for', 'my', 'birthday', 'and', 'a', 'bunch', 'of', 'other', 'times', 'with', 'friends', 'and', 'i', 'keep', 'going', 'back', '.']
+['the', 'dj', 'the', 'dj', 'is', 'awesome', 'is', 'awesome', 'is', 'awesome']================
+
+================['everything', 'on', 'the', 'menu', 'is', 'great', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'menu', 'on', 'everything', 'is', 'everything', 'is', '.', 'is', 'everything']================
+
+================['this', 'establishment', 'is', 'the', 'real', 'deal', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'establishment', 'is', 'deal', 'real', 'deal', 'real', 'deal', 'real', 'deal']================
+
+================['wish', 'ny', 'had', 'more', 'of', 'these', 'kind', 'of', 'places', ':', 'intimate', ',', 'superb', 'food', ',', 'homey', ',', 'top', 'notch', 'all', 'the', 'way', 'around', ',', 'certainly', 'worth', 'the', 'wait', '.']
+['superb', 'food', 'homey', 'food', 'homey', 'food', 'superb', 'food', 'homey', 'food']================
+
+================['but', '$', '500', 'for', 'a', 'dinner', 'for', 'two', 'that', 'did', "n't", 'include', 'wine', '?', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['a', 'dinner', 'for', 'dinner', 'for', 'dinner', 'for', 'dinner', 'for', 'dinner']================
+
+================['look', ',', 'the', 'appetizers', 'were', 'really', 'good', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'appetizers', 'were', 'good', 'really', 'good', 'really', 'good', 'really', 'good']================
+
+================['the', 'entree', 'was', 'also', 'very', 'good', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'entree', 'the', 'entree', 'was', 'good', 'very', 'good', 'was', '.']================
+
+================['what', 'you', 'are', 'paying', 'for', 'is', 'the', 'environment', 'and', 'the', 'name', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'environment', 'is', '.', 'is', 'paying', 'is', 'paying', 'for', 'paying']================
+
+================['yes', ',', 'the', 'place', 'is', 'classy', 'and', 'beautiful', ',', 'but', 'they', 'most', 'certainly', 'target', 'the', 'uber', 'whealthy', 'not', 'the', 'common', 'joe', 'that', 'wants', 'to', 'go', 'all', 'out', 'every', 'once', 'in', 'a', 'while', '.']
+['the', 'place', 'the', 'place', 'is', 'classy', 'beautiful', 'classy', 'is', 'yes']================
+
+================['vanison', 'was', 'good', 'but', 'not', 'amazing', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['vanison', 'was', 'vanison', 'was', 'good', 'but', 'not', 'but', 'not', 'but']================
+
+================['bison', 'was', 'quite', 'excellent', 'however', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['bison', 'was', 'quite', 'however', 'excellent', 'however', 'excellent', 'however', 'excellent', 'however']================
+
+================['dessert', ':', 'pure', 'disaster', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['dessert', ':', '.', 'disaster', '.', 'disaster', '.', 'disaster', '.', 'disaster']================
+
+================['i', 'read', 'reviews', 'that', 'called', 'the', 'restaurant', 'too', 'expensive', 'and', 'i', 'thought', 'to', 'myself', ',', 'but', 'may', 'be', 'it', 'is', 'worth', 'it', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'restaurant', 'called', 'expensive', 'called', 'expensive', 'too', 'expensive', 'called', 'expensive']================
+
+================['the', 'four', 'seasons', 'has', 'history', 'and', 'it', 'is', 'a', 'sort', 'of', 'landmark', 'of', 'new', 'york', 'city', 'restaurants', ',', 'but', 'trust', 'me', ',', 'they', 'will', 'charge', 'you', 'through', 'the', 'nose', 'just', 'so', 'that', 'you', 'can', 'say', '"', 'i', "'ve", 'been', 'to', 'the', 'four', 'seasons', 'restaurant', '"', '.']
+['the', 'has', 'seasons', 'has', 'history', 'a', 'of', 'sort', 'of', 'sort']================
+
+================['all', 'in', 'all', ',', 'the', 'food', 'was', 'great', '(', 'except', 'for', 'the', 'dessserts', ')', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'the', 'food', 'was', 'all', 'in', 'all', 'in', 'all']================
+
+================['all', 'in', 'all', ',', 'the', 'food', 'was', 'great', '(', 'except', 'for', 'the', 'dessserts', ')', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'dessserts', 'for', 'except', 'for', 'except', 'for', 'except', 'for', 'except']================
+
+================['the', 'environment', 'is', 'very', 'upscale', 'and', 'you', 'will', 'see', 'a', 'lot', 'of', 'rich', 'guys', 'with', 'trophy', 'wives', 'or', 'just', 'highly', 'paid', 'escorts', '.']
+['the', 'environment', 'is', 'and', 'is', 'upscale', 'very', 'upscale', 'is', 'upscale']================
+
+================['if', 'you', 'are', 'going', 'for', 'the', 'food', ',', 'it', 'will', 'not', 'be', 'worth', 'it', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'for', 'going', 'be', 'not', 'be', 'will', 'be', 'will']================
+
+================['you', 'would', 'think', 'they', 'would', 'make', 'up', 'for', 'it', 'with', 'service', ',', 'sadly', ',', 'no', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['with', 'service', 'with', 'make', 'no', 'make', 'no', 'make', 'would', 'make']================
+
+================['service', 'was', 'just', 'ok', ',', 'it', 'is', 'not', 'what', 'you', "'d", 'expect', 'for', '$', '500', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['service', 'was', 'just', 'not', 'for', 'expect', 'for', 'expect', 'for', '$']================
+
+================['i', 'agree', 'that', 'dining', 'at', 'casa', 'la', 'femme', 'is', 'like', 'no', 'other', 'dining', 'experience', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['at', 'casa', 'at', 'dining', 'is', 'like', 'experience', 'no', 'experience', 'no']================
+
+================['i', 'literally', 'just', 'got', 'back', 'home', 'after', 'visiting', 'casa', 'la', 'femme', 'and', 'was', 'so', 'offended', 'by', 'my', 'visit', 'felt', 'it', 'necessary', 'to', 'try', 'and', 'warn', 'other', 'diners', 'who', 'value', 'their', 'money', 'and', 'time', '.']
+['visiting', 'after', 'got', 'offended', 'was', 'offended', 'so', 'offended', 'was', 'offended']================
+
+================['we', 'did', 'arrive', 'late', 'for', 'our', 'reservation', 'so', 'i', 'can', 'not', 'complain', 'too', 'much', 'about', 'the', 'wait', 'for', 'a', 'table', '.']
+['the', 'wait', 'the', 'wait', 'about', 'wait', 'about', 'complain', 'not', 'complain']================
+
+================['the', 'place', 'is', 'beautiful', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'place', 'is', 'beautiful', 'is', 'beautiful', 'is', 'beautiful', 'is', 'beautiful']================
+
+================['the', 'hostess', 'was', 'very', 'pleasant', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'hostess', 'was', 'pleasant', 'very', 'pleasant', 'very', 'pleasant', 'very', 'pleasant']================
+
+================['however', ',', 'our', '$', '14', 'drinks', 'were', 'were', 'horrible', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['14', '$', '14', 'drinks', 'our', 'drinks', 'were', 'were', 'horrible', 'were']================
+
+================['we', 'also', 'asked', 'for', 'hooka', 'six', 'times', 'and', 'the', 'waiter', 'kept', 'telling', 'us', 'one', 'minute', 'and', 'never', 'returning', 'with', 'the', 'hooka', '.']
+['the', 'waiter', 'kept', 'asked', 'times', 'asked', 'we', 'asked', 'for', 'asked']================
+
+================['after', 'the', '4th', 'time', 'i', 'asked', 'again', 'and', 'the', 'waiter', 'than', 'said', 'after', 'our', 'dinner', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'waiter', 'asked', 'waiter', 'said', 'after', 'dinner', 'after', 'said', 'after']================
+
+================['we', 'asked', 'for', 'sides', 'which', 'the', 'waiter', 'than', 'admitted', 'that', 'he', 'forgot', 'to', 'put', 'in', 'that', 'part', 'of', 'our', 'order', '.', '<pad>']
+['the', 'waiter', 'admitted', 'sides', 'for', 'asked', 'we', 'asked', 'for', 'asked']================
+
+================['my', 'chicken', 'was', 'inedible', 'as', 'there', 'were', 'so', 'many', 'fatty', 'lumps', 'which', 'i', 'had', 'to', 'keep', 'spitting', 'out', 'into', 'my', 'napkin', '.']
+['my', 'chicken', 'was', 'inedible', 'was', 'inedible', 'was', 'were', 'lumps', 'fatty']================
+
+================['i', 'would', 'not', 'expect', 'this', 'for', 'a', '$', '55', 'dinner', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['55', '$', '55', 'dinner', 'for', 'expect', 'not', 'expect', 'not', 'expect']================
+
+================['by', 'the', 'time', 'we', 'left', 'our', 'wallets', 'were', 'empy', 'and', 'so', 'were', 'our', 'stomachs', 'and', 'we', 'missed', 'the', 'show', 'we', 'were', 'supposed', 'to', 'see', 'following', 'our', 'dinner', ',', 'which', 'would', 'have', 'been', 'acceptable', 'if', 'we', 'got', 'to', 'enjoy', 'the', 'experience', 'of', 'good', 'food', 'and', 'belly', 'dancers', '!']
+['good', 'food', 'of', 'experience', 'the', 'experience', 'the', 'experience', 'of', 'experience']================
+
+================['if', 'it', 'seemed', 'possible', 'to', 'do', 'so', 'while', 'there', 'i', 'would', 'have', 'fought', 'my', 'bill', 'since', 'my', 'dinner', 'portion', 'of', 'my', 'meal', 'was', 'inedible', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['my', 'meal', 'of', 'meal', 'of', 'portion', 'was', 'inedible', 'was', 'since']================
+
+================['i', 'have', 'never', 'left', 'a', 'restaurant', 'feeling', 'as', 'if', 'i', 'was', 'abused', ',', 'and', 'wasted', 'my', 'hard', 'earned', 'money', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['a', 'feeling', 'left', 'wasted', 'left', 'wasted', 'left', ',', 'left', 'feeling']================
+
+================['the', 'menu', 'is', 'fairly', 'simple', 'without', 'much', 'descriptions', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'menu', 'is', '.', 'is', 'simple', 'is', 'without', 'is', 'without']================
+
+================['there', 'was', 'no', 'tap', 'beer', 'that', 'evening', ',', 'which', 'was', 'a', 'disappointment', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['tap', 'beer', 'no', 'beer', 'no', 'beer', 'no', 'beer', 'no', 'beer']================
+
+================['not', 'much', 'of', 'a', 'selection', 'of', 'bottled', 'beer', 'either', ',', 'we', 'went', 'with', 'brahma', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['a', 'selection', 'of', 'much', 'not', 'much', 'not', 'much', 'not', 'much']================
+
+================['the', 'appetizers', 'we', 'ordered', 'were', 'served', 'quickly', '-', 'an', 'order', 'of', 'fried', 'oysters', 'and', 'clams', 'were', 'delicious', 'but', 'a', 'tiny', 'portion', '(', 'maybe', '3', 'of', 'each', ')', '.']
+['of', 'oysters', 'clams', 'oysters', 'fried', 'oysters', 'clams', 'oysters', 'clams', 'oysters']================
+
+================['the', 'lobster', 'knuckles', '(', 'special', 'of', 'the', 'day', ')', 'were', 'ok', ',', 'but', 'pretty', 'tasteless', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'knuckles', 'were', 'ok', 'were', 'ok', 'were', 'tasteless', 'pretty', 'tasteless']================
+
+================['i', 'believe', 'there', 'were', '2', 'shrimp', 'in', 'the', '"', 'salt', 'encrusted', 'shrimp', '"', 'appetizer', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'appetizer', '"', 'appetizer', 'encrusted', 'salt', 'encrusted', 'salt', 'encrusted', 'salt']================
+
+================['i', 'had', 'the', 'thai', 'style', 'fried', 'sea', 'bass', '...', 'which', 'was', 'very', 'good', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'style', 'thai', 'style', 'fried', 'bass', 'sea', 'bass', 'sea', 'bass']================
+
+================['everyone', 'seemed', 'generally', 'happy', 'with', 'their', 'food', ',', 'except', 'my', 'brother', 'who', 'had', 'the', 'grilled', 'mahi', 'mahi', ',', 'seemingly', 'drenched', 'in', 'grapfruit', 'juice', '!']
+['their', 'food', 'with', 'food', 'with', 'happy', 'seemed', '!', 'seemed', '!']================
+
+================['everyone', 'seemed', 'generally', 'happy', 'with', 'their', 'food', ',', 'except', 'my', 'brother', 'who', 'had', 'the', 'grilled', 'mahi', 'mahi', ',', 'seemingly', 'drenched', 'in', 'grapfruit', 'juice', '!']
+['the', 'mahi', 'had', 'brother', 'except', 'drenched', ',', 'drenched', 'except', 'brother']================
+
+================['i', 'heard', 'the', 'lobster', 'roll', 'was', 'excellent', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'roll', 'lobster', 'roll', 'lobster', 'roll', 'lobster', 'roll', 'lobster', 'roll']================
+
+================['all', 'in', 'all', 'the', 'food', 'was', 'good', '-', 'a', 'little', 'on', 'the', 'expensive', 'side', ',', 'but', 'fresh', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'all', 'food', 'in', 'all', 'in', 'food', 'in', 'all']================
+
+================['service', 'not', 'the', 'friendliest', 'to', 'our', '"', 'large', 'party', '"', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['service', 'not', 'to', 'our', 'to', 'our', 'to', 'not', 'to', 'not']================
+
+================['great', 'indian', 'food', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'food', 'great', 'food', 'great', 'food', 'indian', 'food', 'indian', 'food']================
+
+================['food', 'was', 'amazing', '-', 'i', 'love', 'indian', 'food', 'and', 'eat', 'it', 'quite', 'regularly', ',', 'but', 'i', 'can', 'say', 'this', 'is', 'one', 'of', 'the', 'best', 'i', "'ve", 'had', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['food', 'was', 'amazing', 'was', 'amazing', 'indian', 'i', 'indian', 'i', 'indian']================
+
+================['very', '"', 'normal', 'indian', 'food', '"', ',', 'but', 'done', 'really', 'well', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['normal', 'food', 'indian', 'food', '"', 'food', '"', 'food', '"', 'food']================
+
+================['i', 'have', 'it', 'a', '4', 'instead', 'of', '5', 'because', 'of', 'the', 'price', '(', 'just', 'chicken', 'tikka', 'masala', '-', 'no', 'bread', 'of', 'rice', '-', 'is', '$', '25', ')', ',', 'which', 'i', 'would', 'expect', 'at', 'a', 'upscale', 'indian', 'restaurant', 'but', 'this', 'place', 'does', "n't", 'have', 'an', 'upscale', 'feel', '.']
+['this', 'place', 'this', 'place', 'have', '.', 'have', 'is', '25', '$']================
+
+================['i', 'have', 'it', 'a', '4', 'instead', 'of', '5', 'because', 'of', 'the', 'price', '(', 'just', 'chicken', 'tikka', 'masala', '-', 'no', 'bread', 'of', 'rice', '-', 'is', '$', '25', ')', ',', 'which', 'i', 'would', 'expect', 'at', 'a', 'upscale', 'indian', 'restaurant', 'but', 'this', 'place', 'does', "n't", 'have', 'an', 'upscale', 'feel', '.']
+['just', 'chicken', 'tikka', 'have', 'because', 'price', 'because', 'of', 'because', 'price']================
+
+================['i', 'have', 'it', 'a', '4', 'instead', 'of', '5', 'because', 'of', 'the', 'price', '(', 'just', 'chicken', 'tikka', 'masala', '-', 'no', 'bread', 'of', 'rice', '-', 'is', '$', '25', ')', ',', 'which', 'i', 'would', 'expect', 'at', 'a', 'upscale', 'indian', 'restaurant', 'but', 'this', 'place', 'does', "n't", 'have', 'an', 'upscale', 'feel', '.']
+['upscale', 'feel', 'have', "n't", 'have', "n't", 'have', "n't", 'have', 'does']================
+
+================['also', ',', 'waiters', 'try', 'to', 'push', 'more', 'food', 'on', 'you', ',', 'like', 'suggest', 'things', 'as', 'if', 'they', 'are', 'complimentary', 'when', 'they', 'actually', 'cost', '$', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+[',', 'try', 'push', 'on', 'push', 'on', 'push', 'to', 'push', 'on']================
+
+================['but', 'if', 'you', "'re", 'prepared', 'to', 'spend', 'some', '$', 'and', 'remember', 'to', 'ask', 'if', 'something', 'they', 'offer', 'is', 'complimentary', ',', 'then', 'this', 'is', 'the', 'place', 'to', 'go', 'for', 'indian', 'food', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['for', 'food', 'for', 'food', 'indian', 'food', 'indian', 'food', 'indian', 'food']================
+
+================['but', 'if', 'you', "'re", 'prepared', 'to', 'spend', 'some', '$', 'and', 'remember', 'to', 'ask', 'if', 'something', 'they', 'offer', 'is', 'complimentary', ',', 'then', 'this', 'is', 'the', 'place', 'to', 'go', 'for', 'indian', 'food']
+['the', 'place', 'the', 'place', 'go', 'for', 'food', 'for', 'food', 'for']================
+
+================['bukhara', 'grill', ',', 'the', 'tagline', 'says', 'it', 'all', '..', '"', 'indian', 'spice', 'rave', '"', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['bukhara', 'grill', 'bukhara', 'grill', 'bukhara', 'grill', 'bukhara', 'grill', 'bukhara', 'grill']================
+
+================['the', 'lunch', 'buffet', 'is', 'expensive', 'but', 'is', 'deff', 'worth', 'it', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'buffet', 'lunch', 'buffet', 'lunch', 'buffet', 'is', 'expensive', 'is', 'expensive']================
+
+================['we', 'have', 'gone', 'for', 'dinner', 'only', 'a', 'few', 'times', 'but', 'the', 'same', 'great', 'quality', 'and', 'service', 'is', 'given', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['and', 'quality', 'great', 'quality', 'same', 'quality', 'great', 'quality', 'great', 'quality']================
+
+================['we', 'have', 'gone', 'for', 'dinner', 'only', 'a', 'few', 'times', 'but', 'the', 'same', 'great', 'quality', 'and', 'service', 'is', 'given', '.']
+['for', 'dinner', 'for', 'gone', 'but', 'gone', 'times', 'gone', 'have', 'gone']================
+
+================['bukhara', 'is', 'on', 'my', 'top', '5', 'indian', 'places', 'in', 'nyc', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['bukhara', 'is', 'on', 'my', 'in', 'nyc', 'in', 'nyc', 'in', '5']================
+
+================['i', 'have', 'never', 'been', 'so', 'disgusted', 'by', 'both', 'food', 'an', 'service', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['both', 'food', 'by', 'disgusted', 'been', 'disgusted', 'by', 'disgusted', 'so', 'disgusted']================
+
+================['i', 'have', 'never', 'been', 'so', 'disgusted', 'by', 'both', 'food', 'an', 'service', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['an', 'service', 'food', 'by', 'disgusted', 'so', 'disgusted', 'so', 'disgusted', 'been']================
+
+================['however', ',', 'once', 'i', 'received', 'my', 'predictably', 'mediocre', 'order', 'of', 'what', 'dokebi', 'thinks', 'passes', 'as', 'korean', 'fair', ',', '(', 'sometimes', 'you', 'have', 'to', 'settle', 'when', 'it', "'s", 'your', 'only', 'option', ')', ',', 'i', 'got', 'through', 'about', 'half', 'my', 'kimchee', 'before', 'i', 'found', 'a', 'piece', 'of', 'random', 'lettuce', 'accompanied', 'by', 'a', 'far', 'more', 'disgusting', ',', 'slimy', ',', 'clearly', 'bad', 'piece', 'of', 'fish', 'skin', '.']
+['my', 'kimchee', 'half', 'kimchee', 'half', 'kimchee', 'my', 'kimchee', 'half', 'kimchee']================
+
+================['however', ',', 'once', 'i', 'received', 'my', 'predictably', 'mediocre', 'order', 'of', 'what', 'dokebi', 'thinks', 'passes', 'as', 'korean', 'fair', ',', '(', 'sometimes', 'you', 'have', 'to', 'settle', 'when', 'it', "'s", 'your', 'only', 'option', ')', ',', 'i', 'got', 'through', 'about', 'half', 'my', 'kimchee', 'before', 'i', 'found', 'a', 'piece', 'of', 'random', 'lettuce', 'accompanied', 'by', 'a', 'far', 'more', 'disgusting', ',', 'slimy', ',', 'clearly', 'bad', 'piece', 'of', 'fish', 'skin', '.']
+['as', 'passes', 'thinks', 'of', 'order', 'mediocre', 'order', 'mediocre', 'predictably', 'mediocre']================
+
+================['my', 'main', 'concern', 'was', 'the', 'sanity', 'of', 'the', 'food', 'that', 'was', 'being', 'sent', 'out', 'to', 'myself', 'and', 'others', ',', 'but', 'i', 'would', 'be', 'lying', 'is', 'i', 'said', 'that', 'as', 'someone', 'who', 'has', 'worked', 'in', 'restaurants', 'since', 'the', 'age', 'of', 'fifteen', 'i', 'was', 'expecting', 'at', 'least', 'a', 'minimal', 'effort', 'on', 'the', 'part', 'of', 'the', 'restaurant', 'to', 'amend', 'the', 'situation', '.', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'sent', 'that', 'sent', 'out', 'sent', 'being', 'sent', 'out']================
+
+================['my', 'girlfriend', ',', 'being', 'slightly', 'more', 'aggressive', ',', 'and', 'having', 'been', 'equally', 'disgusted', 'causing', 'her', 'to', 'throw', 'out', 'the', 'remainder', 'of', 'her', 'barely', 'eaten', 'meal', ',', 'called', 'back', 'only', 'to', 'be', 'informed', 'that', 'i', 'was', 'probably', 'wrong', 'and', 'that', 'it', 'was', 'most', 'likely', 'an', 'oyster', ',', 'and', 'that', 'we', 'were', 'also', 'blacklisted', 'from', 'their', 'restaurant', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['eaten', 'meal', 'of', 'remainder', 'throw', 'causing', 'throw', 'causing', 'disgusted', 'causing']================
+
+================['it', 'was', "n't", 'as', 'if', 'this', 'restaurant', 'had', 'any', 'major', 'bragging', 'points', 'before', 'hand', ',', 'but', 'now', 'it', "'s", 'simply', 'repulsive', '.']
+['this', 'restaurant', 'had', 'points', 'before', 'points', 'before', 'points', 'any', 'points']================
+
+================['gorgeous', 'place', 'ideal', 'for', 'a', 'romantic', 'dinner', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['gorgeous', 'ideal', 'gorgeous', 'ideal', 'gorgeous', 'ideal', 'gorgeous', 'ideal', 'gorgeous', 'ideal']================
+
+================['i', 'book', 'a', 'gorgeous', 'white', 'organza', 'tent', 'which', 'included', 'a', 'four', 'course', 'prix', 'fix', 'menu', 'which', 'we', 'enjoyed', 'a', 'lot', '.', '<pad>']
+['a', 'menu', 'fix', 'menu', 'included', 'tent', 'gorgeous', 'tent', 'gorgeous', 'tent']================
+
+================['i', 'book', 'a', 'gorgeous', 'white', 'organza', 'tent', 'which', 'included', 'a', 'four', 'course', 'prix', 'fix', 'menu', 'which', 'we', 'enjoyed', 'a', 'lot', '.', '<pad>']
+['gorgeous', 'tent', 'organza', 'tent', 'organza', 'tent', 'gorgeous', 'tent', 'gorgeous', 'tent']================
+
+================['the', 'service', 'was', 'spectacular', 'as', 'the', 'waiter', 'knew', 'everything', 'about', 'the', 'menu', 'and', 'his', 'recommendations', 'were', 'amazing', '!']
+['the', 'service', 'was', 'spectacular', 'was', 'spectacular', 'was', 'spectacular', 'was', '!']================
+
+================['the', 'service', 'was', 'spectacular', 'as', 'the', 'waiter', 'knew', 'everything', 'about', 'the', 'menu', 'and', 'his', 'recommendations', 'were', 'amazing', '!']
+['the', 'waiter', 'knew', 'was', '!', 'was', 'spectacular', 'was', 'spectacular', 'was']================
+
+================['i', 'completely', 'recommend', 'casa', 'la', 'femme', 'for', 'any', 'special', 'occasion', 'and', 'to', 'really', 'impress', 'your', 'date', '.', '<pad>']
+['recommend', 'i', 'recommend', 'casa', 'recommend', 'i', 'recommend', 'casa', 'recommend', 'i']================
+
+================['the', 'bibimbap', 'was', 'average', ',', 'but', 'the', 'stone', 'bowl', 'was', "n't", 'even', 'close', 'to', 'sizzling', '.', '<pad>', '<pad>']
+['the', 'bibimbap', 'was', ',', 'was', 'was', "n't", 'was', "n't", 'was']================
+
+================['the', 'bibimbap', 'was', 'average', ',', 'but', 'the', 'stone', 'bowl', 'was', "n't", 'even', 'close', 'to', 'sizzling', '.']
+['the', 'bowl', 'was', "n't", 'was', "n't", 'was', "n't", 'was', 'even']================
+
+================['too', 'bad', 'i', 'had', 'paid', 'an', 'extra', '$', '2', 'for', 'the', 'stone', 'bowl', '.', '<pad>', '<pad>']
+['the', 'bowl', 'for', 'paid', 'bad', 'too', 'bad', 'too', 'bad', 'paid']================
+
+================['the', 'nakgi', '-', 'bokum', 'was', 'horrible', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'bokum', 'was', 'bokum', 'was', 'horrible', 'was', 'horrible', 'was', 'horrible']================
+
+================['easily', 'the', 'worst', 'stir', '-', 'fried', 'squid', 'i', "'ve", 'ever', 'tasted', '.', '<pad>', '<pad>', '<pad>', '<pad>']
+['worst', 'squid', 'the', 'squid', 'worst', 'squid', 'worst', 'squid', 'worst', 'squid']================
+
+================['the', 'sauce', 'tasted', 'more', 'like', 'chinese', 'fast', 'food', 'than', 'decent', 'korean', '.', '<pad>', '<pad>', '<pad>']
+['the', 'sauce', 'tasted', 'sauce', 'tasted', 'sauce', 'tasted', 'sauce', 'tasted', 'like']================
+
+================['the', 'side', 'dishes', 'were', 'passable', ',', 'and', 'i', 'did', 'get', 'a', 'refill', 'upon', 'request', '.']
+['the', 'dishes', 'were', ',', 'were', 'passable', 'were', 'and', 'were', 'passable']================
+
+================['the', 'real', 'problem', 'i', 'had', 'with', 'this', 'place', 'was', 'the', 'complete', 'lack', 'of', 'service', '.']
+['of', 'lack', 'was', 'lack', 'of', 'lack', 'the', 'lack', 'the', 'lack']================
+
+================['my', 'wife', 'had', 'barely', 'touched', 'that', 'mess', 'of', 'a', 'dish', '.', '<pad>', '<pad>', '<pad>', '<pad>']
+['a', 'dish', 'of', 'mess', 'of', 'mess', 'that', 'mess', 'of', 'mess']================
+
+================['the', 'wife', 'had', 'the', 'risotto', 'which', 'was', 'amazing', '.', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'risotto', 'was', 'amazing', 'was', 'amazing', 'was', 'amazing', 'was', 'amazing']================
+
+================['the', 'farro', 'salad', 'and', 'the', 'mashed', 'yukon', 'potatoes', 'were', 'also', 'extremely', 'tasty', '.']
+['the', 'salad', 'were', 'tasty', 'extremely', 'tasty', 'extremely', 'tasty', 'extremely', 'tasty']================
+
+================['the', 'farro', 'salad', 'and', 'the', 'mashed', 'yukon', 'potatoes', 'were', 'also', 'extremely', 'tasty', '.']
+['the', 'potatoes', 'salad', 'were', 'tasty', 'were', 'tasty', 'extremely', 'tasty', 'extremely']================
+
+================['i', 'love', 'margherita', 'pizza', '–', 'i', 'looove', 'east', 'village', 'pizza', '<pad>', '<pad>', '<pad>']
+['looove', 'love', 'looove', 'love', 'looove', 'i', 'looove', 'i', 'looove', 'love']================
+
+================['i', 'love', 'margherita', 'pizza', '–', 'i', 'looove', 'east', 'village', 'pizza', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['love', 'looove', 'i', 'looove', 'i', 'looove', 'i', 'looove', 'i', 'looove']================
+
+================['love', 'this', 'place', ',', 'every', 'time', 'we', 'are', 'in', 'the', 'city', 'this', 'is', 'one', 'of', 'the', '$', 't$s', 'we', 'always', 'go', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'love', 'place', 'love', 'place', 'love', 'place', 'love', 'is']================
+
+================['a', 'quintessential', 'slice', 'of', 'nyc', 'pizza', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['quintessential', 'slice', 'quintessential', 'slice', 'a', 'slice', 'of', 'pizza', 'of', 'slice']================
+
+================['the', 'crust', 'has', 'a', 'great', 'bite', 'and', 'a', 'good', 'chew', ',', 'the', 'sauce', 'is', 'light', 'with', 'a', 'nice', 'acidity', 'to', 'it', ',', 'the', 'salt', 'from', 'the', 'cheese', 'is', 'great', ',', 'really', 'heightens', 'the', 'flavor', 'of', 'all', 'the', 'other', 'components', '.']
+['the', 'crust', 'has', 'bite', 'and', 'bite', 'great', 'bite', 'great', 'bite']================
+
+================['the', 'crust', 'has', 'a', 'great', 'bite', 'and', 'a', 'good', 'chew', ',', 'the', 'sauce', 'is', 'light', 'with', 'a', 'nice', 'acidity', 'to', 'it', ',', 'the', 'salt', 'from', 'the', 'cheese', 'is', 'great', ',', 'really', 'heightens', 'the', 'flavor', 'of', 'all', 'the', 'other', 'components', '.']
+['the', 'sauce', 'is', 'has', 'bite', 'great', 'bite', 'and', 'bite', 'a']================
+
+================['the', 'crust', 'has', 'a', 'great', 'bite', 'and', 'a', 'good', 'chew', ',', 'the', 'sauce', 'is', 'light', 'with', 'a', 'nice', 'acidity', 'to', 'it', ',', 'the', 'salt', 'from', 'the', 'cheese', 'is', 'great', ',', 'really', 'heightens', 'the', 'flavor', 'of', 'all', 'the', 'other', 'components', '.']
+['the', 'cheese', 'from', 'salt', 'is', '.', 'is', 'heightens', 'really', 'heightens']================
+
+================['personally', 'i', 'like', 'the', 'margherita', 'pizza', 'better', ',', 'but', 'they', 'are', 'all', 'good', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'pizza', 'the', 'pizza', 'the', 'pizza', 'like', 'i', 'like', 'i']================
+
+================['possibly', 'the', 'most', 'romantic', 'restaurant', 'in', 'the', 'city', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['romantic', 'most', 'romantic', 'most', 'romantic', 'restaurant', 'in', 'city', 'in', 'city']================
+
+================['this', 'is', 'undoubtedly', 'my', 'favorite', 'modern', 'japanese', 'brasserie', '(', 'that', 'do', 'n’t', 'serve', 'sushi', ')', ',', 'and', 'in', 'my', 'opinion', ',', 'one', 'of', 'the', 'most', 'romantic', 'restaurants', 'in', 'the', 'city', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['favorite', 'brasserie', 'is', '!', 'is', 'one', 'in', 'opinion', 'my', 'opinion']================
+
+================['not', 'only', 'is', 'it', 'an', 'adventure', 'getting', 'to', 'this', 'somewhat', 'hidden', 'spot', ',', 'once', 'you', 'enter', 'the', 'unmarked', 'wooden', 'doors', ',', 'the', 'zen', 'and', 'intimate', 'décor', 'will', 'make', 'you', 'feel', 'like', 'you', '’re', 'no', 'longer', 'in', 'the', 'city', '.']
+['hidden', 'spot', 'hidden', 'spot', 'hidden', 'somewhat', 'hidden', 'somewhat', 'hidden', 'somewhat']================
+
+================['not', 'only', 'is', 'it', 'an', 'adventure', 'getting', 'to', 'this', 'somewhat', 'hidden', 'spot', ',', 'once', 'you', 'enter', 'the', 'unmarked', 'wooden', 'doors', ',', 'the', 'zen', 'and', 'intimate', 'décor', 'will', 'make', 'you', 'feel', 'like', 'you', '’re', 'no', 'longer', 'in', 'the', 'city', '.']
+['the', 'doors', 'wooden', 'doors', 'enter', 'you', 'enter', 'you', 'enter', 'you']================
+
+================['not', 'only', 'is', 'it', 'an', 'adventure', 'getting', 'to', 'this', 'somewhat', 'hidden', 'spot', ',', 'once', 'you', 'enter', 'the', 'unmarked', 'wooden', 'doors', ',', 'the', 'zen', 'and', 'intimate', 'décor', 'will', 'make', 'you', 'feel', 'like', 'you', '’re', 'no', 'longer', 'in', 'the', 'city', '.']
+['intimate', 'décor', 'zen', 'make', 'is', 'it', 'is', 'adventure', 'an', 'adventure']================
+
+================['if', 'you', '’re', 'planning', 'to', 'come', 'here', ',', 'make', 'sure', 'that', 'your', 'date', 'is', 'someone', 'whom', 'you', 'really', 'like', 'since', 'you', '’ll', 'be', 'ushered', 'to', 'private', 'booths', 'where', 'there', 'will', 'be', 'no', 'people', 'or', 'food', 'watching', '(', 'choose', 'the', 'ones', 'on', 'the', 'ground', 'level', 'that', 'have', 'glass', 'ceilings', 'so', 'you', 'may', 'see', 'the', 'stars', 'in', 'the', 'sky', '!', ')', '.']
+['to', 'ushered', 'like', 'really', 'like', 'really', 'like', 'whom', 'like', 'you']================
+
+================['if', 'you', '’re', 'planning', 'to', 'come', 'here', ',', 'make', 'sure', 'that', 'your', 'date', 'is', 'someone', 'whom', 'you', 'really', 'like', 'since', 'you', '’ll', 'be', 'ushered', 'to', 'private', 'booths', 'where', 'there', 'will', 'be', 'no', 'people', 'or', 'food', 'watching', '(', 'choose', 'the', 'ones', 'on', 'the', 'ground', 'level', 'that', 'have', 'glass', 'ceilings', 'so', 'you', 'may', 'see', 'the', 'stars', 'in', 'the', 'sky', '!', ')', '.']
+['have', 'ceilings', 'glass', 'ceilings', 'glass', 'ceilings', 'glass', 'ceilings', 'glass', 'ceilings']================
+
+================['it', '’s', 'just', 'you', 'and', 'your', 'date', 'and', 'an', 'occasional', 'cute', '‘', 'excuse', 'me’', 'before', 'the', 'waiter', 'opens', 'the', 'little', 'curtain', 'to', 'your', 'booth', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'the', '’s', 'the', 'your', '!', 'booth', '!', 'booth', '!']================
+
+================['my', 'party', 'had', 'the', 'bbe', '$', '29', 'fixe', 'prix', 'menu', ',', 'which', 'was', 'such', 'a', 'wonderful', 'deal', 'since', 'it', 'also', 'came', 'with', 'a', 'flight', 'of', 'sake', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'bbe', 'the', 'bbe', 'had', '!', 'had', '!', 'had', '!']================
+
+================['we', 'started', 'off', 'with', 'a', 'delightful', 'sashimi', 'amuse', 'bouche', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['delightful', 'sashimi', 'delightful', 'sashimi', 'delightful', 'sashimi', 'delightful', 'sashimi', 'delightful', 'sashimi']================
+
+================['i', 'picked', 'the', 'grilled', 'black', 'cod', 'as', 'my', 'entree', ',', 'which', 'i', 'absolutely', 'devoured', 'while', 'someone', 'commented', 'that', 'the', 'grilled', 'salmon', 'dish', 'was', 'better', '.']
+['the', 'cod', 'picked', 'i', 'picked', 'devoured', 'absolutely', 'devoured', 'absolutely', 'devoured']================
+
+================['i', 'picked', 'the', 'grilled', 'black', 'cod', 'as', 'my', 'entree', ',', 'which', 'i', 'absolutely', 'devoured', 'while', 'someone', 'commented', 'that', 'the', 'grilled', 'salmon', 'dish', 'was', 'better', '.']
+['the', 'dish', 'was', 'better', 'was', 'commented', 'devoured', 'i', 'devoured', 'absolutely']================
+
+================['the', 'entrees', 'were', 'served', 'with', 'miso', 'soup', 'and', 'rice', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'entrees', 'served', 'were', 'served', 'were', 'served', 'were', 'served', 'with']================
+
+================['the', 'sake', '’s', 'complimented', 'the', 'courses', 'very', 'well', 'and', 'is', 'successfully', 'easing', 'me', 'into', 'the', 'sake', 'world', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'sake', 'the', 'sake', 'the', 'sake', 'complimented', 'sake', 'complimented', 'sake']================
+
+================['for', 'desserts', ',', 'we', 'tried', 'the', 'frozen', 'black', 'sesame', 'mousse', '(', 'interesting', 'but', 'not', 'extraordinary', ')', 'and', 'matcha', '(', 'powdered', 'green', 'tea', ')', 'and', 'blueberry', 'cheesecake', ',', 'which', 'was', 'phenomenal', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'mousse', 'tried', ',', 'tried', '.', 'tried', 'for', 'tried', '.']================
+
+================['for', 'desserts', ',', 'we', 'tried', 'the', 'frozen', 'black', 'sesame', 'mousse', '(', 'interesting', 'but', 'not', 'extraordinary', ')', 'and', 'matcha', '(', 'powdered', 'green', 'tea', ')', 'and', 'blueberry', 'cheesecake', ',', 'which', 'was', 'phenomenal', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['and', 'mousse', 'frozen', 'mousse', '(', 'mousse', 'interesting', 'extraordinary', ')', 'extraordinary']================
+
+================['maybe', 'it', 'was', 'the', 'great', 'company', '(', 'i', 'had', 'friends', 'visiting', 'from', 'philly', '–', 'yes', ',', 'it', 'was', 'not', 'a', 'date', 'this', 'time', ')', 'or', 'the', 'super', 'reasonable', 'price', 'point', ',', 'but', 'i', 'just', 'ca', 'n’t', 'say', 'enough', 'good', 'things', 'about', 'this', 'brasserie', '.']
+['this', 'brasserie', 'about', 'things', 'say', 'just', 'say', 'i', 'say', 'ca']================
+
+================['i', 'do', 'n’t', 'usually', 'visit', 'the', 'same', 'establishment', 'more', 'than', 'once', ',', 'what', 'more', 'twice', ',', 'but', 'i', '’ll', 'come', 'to', 'zenkichi', 'anytime', 'for', 'a', 'quiet', ',', 'unhurried', 'and', 'memorable', 'dinner', '.']
+['to', 'come', 'anytime', 'for', 'dinner', 'unhurried', 'and', 'unhurried', 'memorable', 'unhurried']================
+
+================['the', 'service', 'leaves', 'much', 'to', 'be', 'desired', ',', 'from', 'feeling', 'like', 'you', 'are', 'rushed', 'the', 'place', 'your', 'order', ',', 'to', 'being', 'ignored', 'the', 'rest', 'of', 'the', 'night', '.', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'service', 'leaves', '.', 'leaves', 'much', 'leaves', 'much', 'leaves', 'much']================
+
+================['they', 'are', 'extremely', 'rude', ',', 'not', 'even', 'apologizing', 'for', 'the', 'horrible', 'service', 'we', 'got', 'and', 'handing', 'us', 'a', 'bill', 'well', 'over', '$', '500', 'for', 'some', 'drinks', 'adn', 'their', 'pita', 'bread', '!', '<pad>']
+['horrible', 'service', 'horrible', 'service', 'horrible', 'service', 'for', 'apologizing', 'not', 'apologizing']================
+
+================['they', 'are', 'extremely', 'rude', ',', 'not', 'even', 'apologizing', 'for', 'the', 'horrible', 'service', 'we', 'got', 'and', 'handing', 'us', 'a', 'bill', 'well', 'over', '$', '500', 'for', 'some', 'drinks', 'adn', 'their', 'pita', 'bread', '!', '<pad>']
+['some', 'adn', 'drinks', 'adn', 'for', 'adn', 'for', 'adn', 'drinks', 'adn']================
+
+================['they', 'are', 'extremely', 'rude', ',', 'not', 'even', 'apologizing', 'for', 'the', 'horrible', 'service', 'we', 'got', 'and', 'handing', 'us', 'a', 'bill', 'well', 'over', '$', '500', 'for', 'some', 'drinks', 'adn', 'their', 'pita', 'bread', '!']
+['their', 'bread', 'handing', 'apologizing', 'are', 'rude', 'extremely', 'rude', 'are', 'they']================
+
+================['great', 'shabu', 'shabu', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'shabu', 'great', 'shabu', 'great', 'shabu', 'great', 'shabu', 'great', 'shabu']================
+
+================['i', 'tried', 'a', 'couple', 'other', 'dishes', 'but', 'was', "n't", 'too', 'impressed', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['other', 'dishes', 'tried', 'i', 'tried', 'was', 'tried', 'was', "n't", 'was']================
+
+================['but', 'for', 'the', 'shabu', 'shabu', ',', 'you', 'wo', "n't", 'find', 'much', 'better', 'in', 'ny', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'shabu', 'for', 'find', 'you', 'find', 'in', 'ny', 'in', 'ny']================
+
+================['the', 'meat', 'is', 'fresh', ',', 'the', 'sauces', 'are', 'great', ',', 'you', 'get', 'kimchi', 'and', 'a', 'salad', 'free', 'with', 'your', 'meal', 'and', 'service', 'is', 'good', 'too', '.']
+['the', 'meat', 'is', 'fresh', 'is', 'are', ',', 'are', 'great', 'are']================
+
+================['the', 'meat', 'is', 'fresh', ',', 'the', 'sauces', 'are', 'great', ',', 'you', 'get', 'kimchi', 'and', 'a', 'salad', 'free', 'with', 'your', 'meal', 'and', 'service', 'is', 'good', 'too', '.']
+['the', 'sauces', 'the', 'sauces', 'are', 'great', 'are', 'great', 'are', 'is']================
+
+================['the', 'meat', 'is', 'fresh', ',', 'the', 'sauces', 'are', 'great', ',', 'you', 'get', 'kimchi', 'and', 'a', 'salad', 'free', 'with', 'your', 'meal', 'and', 'service', 'is', 'good', 'too', '.']
+['and', 'meal', 'your', 'meal', 'and', 'meal', 'with', 'meal', 'with', 'free']================
+
+================['the', 'meat', 'is', 'fresh', ',', 'the', 'sauces', 'are', 'great', ',', 'you', 'get', 'kimchi', 'and', 'a', 'salad', 'free', 'with', 'your', 'meal', 'and', 'service', 'is', 'good', 'too', '.']
+['your', 'meal', 'your', 'meal', 'and', 'meal', 'with', 'free', 'with', 'meal']================
+
+================['the', 'meat', 'is', 'fresh', ',', 'the', 'sauces', 'are', 'great', ',', 'you', 'get', 'kimchi', 'and', 'a', 'salad', 'free', 'with', 'your', 'meal', 'and', 'service', 'is', 'good', 'too', '.']
+['get', 'you', 'get', 'are', 'is', 'are', 'great', 'are', 'great', 'are']================
+
+================['the', 'meat', 'is', 'fresh', ',', 'the', 'sauces', 'are', 'great', ',', 'you', 'get', 'kimchi', 'and', 'a', 'salad', 'free', 'with', 'your', 'meal', 'and', 'service', 'is', 'good', 'too', '.']
+['a', 'salad', 'free', 'salad', 'free', 'with', 'free', 'with', 'free', 'with']================
+
+================['dokebi', 'gives', 'williamsburg', 'the', 'right', 'one', '-', 'two', 'punch', 'of', 'classic', 'korean', 'food', 'and', 'fusion', 'twists', 'like', 'pork', 'belly', 'tacos', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['classic', 'twists', 'classic', 'twists', 'classic', 'twists', 'classic', 'twists', 'classic', 'twists']================
+
+================['dokebi', 'gives', 'williamsburg', 'the', 'right', 'one', '-', 'two', 'punch', 'of', 'classic', 'korean', 'food', 'and', 'fusion', 'twists', 'like', 'pork', 'belly', 'tacos', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['and', 'food', 'twists', 'food', 'twists', 'classic', 'twists', 'classic', 'twists', 'classic']================
+
+================['dokebi', 'gives', 'williamsburg', 'the', 'right', 'one', '-', 'two', 'punch', 'of', 'classic', 'korean', 'food', 'and', 'fusion', 'twists', 'like', 'pork', 'belly', 'tacos', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['like', 'punch', 'of', 'twists', 'korean', 'twists', 'classic', 'twists', 'classic', 'twists']================
+
+================['the', 'hot', 'dogs', 'are', 'good', ',', 'yes', ',', 'but', 'the', 'reason', 'to', 'get', 'over', 'here', 'is', 'the', 'fantastic', 'pork', 'croquette', 'sandwich', ',', 'perfect', 'on', 'its', 'supermarket', 'squishy', 'bun', '.']
+['the', 'dogs', 'hot', 'dogs', 'the', 'dogs', 'hot', 'dogs', 'hot', 'dogs']================
+
+================['the', 'hot', 'dogs', 'are', 'good', ',', 'yes', ',', 'but', 'the', 'reason', 'to', 'get', 'over', 'here', 'is', 'the', 'fantastic', 'pork', 'croquette', 'sandwich', ',', 'perfect', 'on', 'its', 'supermarket', 'squishy', 'bun', '.']
+['fantastic', 'sandwich', 'the', 'sandwich', 'perfect', 'sandwich', 'fantastic', 'sandwich', 'fantastic', 'sandwich']================
+
+================['the', 'hot', 'dogs', 'are', 'good', ',', 'yes', ',', 'but', 'the', 'reason', 'to', 'get', 'over', 'here', 'is', 'the', 'fantastic', 'pork', 'croquette', 'sandwich', ',', 'perfect', 'on', 'its', 'supermarket', 'squishy', 'bun', '.']
+['squishy', 'bun', 'on', 'perfect', 'sandwich', 'fantastic', 'sandwich', 'fantastic', 'sandwich', 'perfect']================
+
+================['restaurant', 'with', 'a', 'view', '<pad>', '<pad>', '<pad>', '<pad>']
+['a', 'view', 'with', 'restaurant', 'with', 'restaurant', 'with', 'restaurant', 'with', 'restaurant']================
+
+================['the', 'food', 'tasted', 'very', 'good', '.', '<pad>', '<pad>']
+['the', 'food', 'tasted', 'good', 'very', 'good', 'very', 'good', 'very', 'good']================
+
+================['the', 'family', 'seafood', 'entree', 'was', 'very', 'good', '.']
+['the', 'seafood', 'the', 'seafood', 'the', 'seafood', 'the', 'seafood', 'the', 'seafood']================
+
+================['the', 'main', 'entree', 'was', 'also', 'very', 'good', '.']
+['the', 'entree', 'was', 'good', 'very', 'good', 'very', 'good', 'was', '.']================
+
+================['price', 'is', 'high', 'but', 'the', 'food', 'is', 'good', ',', 'so', 'i', 'would', 'come', 'back', 'again', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'is', ',', 'is', '.', 'is', 'come', 'i', 'come']================
+
+================['this', 'place', 'does', "n't", 'make', 'any', 'sense', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'make', "n't", 'make', "n't", 'make', "n't", 'make', 'place']================
+
+================['this', 'place', 'has', 'totally', 'weird', 'decor', ',', 'stairs', 'going', 'up', 'with', 'mirrored', 'walls', '-', 'i', 'am', 'surprised', 'how', 'no', 'one', 'yet', 'broke', 'their', 'head', 'or', 'fall', 'off', 'the', 'stairs', '-', 'mirrored', 'walls', 'make', 'you', 'dizzy', 'and', 'delusional', '...']
+['weird', 'decor', 'has', 'stairs', 'going', 'stairs', 'going', 'up', 'going', 'stairs']================
+
+================['this', 'place', 'has', 'totally', 'weird', 'decor', ',', 'stairs', 'going', 'up', 'with', 'mirrored', 'walls', '-', 'i', 'am', 'surprised', 'how', 'no', 'one', 'yet', 'broke', 'their', 'head', 'or', 'fall', 'off', 'the', 'stairs', '-', '$', 't$', 'make', 'you', 'dizzy', 'and', 'delusional', '...']
+['with', 'going', 'stairs', 'going', 'stairs', 'has', 'stairs', 'has', 'decor', 'weird']================
+
+================['this', 'place', 'is', 'not', 'inviting', 'and', 'the', 'food', 'is', 'totally', 'weird', '.', '<pad>', '<pad>']
+['this', 'place', 'inviting', 'not', 'inviting', 'not', 'inviting', 'not', 'inviting', 'place']================
+
+================['this', 'place', 'is', 'not', 'inviting', 'and', 'the', 'food', 'is', 'totally', 'weird', '.', '<pad>', '<pad>']
+['the', 'food', 'is', 'weird', 'is', 'weird', 'is', 'inviting', 'not', 'inviting']================
+
+================['the', 'concept', 'of', 'japanese', 'tapas', 'is', 'newly', 'created', 'and', 'clearly', 'does', "n't", 'work', '.']
+['of', 'concept', 'created', 'work', "n't", 'work', 'clearly', 'work', "n't", 'work']================
+
+================['the', 'food', 'they', 'serve', 'is', 'not', 'comforting', ',', 'not', 'appetizing', 'and', 'uncooked', '.', '<pad>']
+['the', 'food', 'is', 'comforting', 'appetizing', 'uncooked', 'appetizing', 'uncooked', 'appetizing', 'not']================
+
+================['good', 'food', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['good', 'food', 'good', 'food', 'good', 'food', 'good', 'food', 'good', 'food']================
+
+================['the', 'food', 'was', 'great', 'and', 'tasty', ',', 'but', 'the', 'sitting', 'space', 'was', 'too', 'small', ',', 'i', 'do', "n't", 'like', 'being', 'cramp', 'in', 'a', 'corner', '.']
+['the', 'food', 'was', 'great', 'tasty', 'great', 'tasty', 'great', 'tasty', 'great']================
+
+================['the', 'food', 'was', 'great', 'and', 'tasty', ',', 'but', 'the', 'sitting', 'space', 'was', 'too', 'small', ',', 'i', 'do', "n't", 'like', 'being', 'cramp', 'in', 'a', 'corner', '.']
+['the', 'space', 'was', 'like', 'being', 'cramp', 'being', 'cramp', 'being', 'like']================
+
+================['over', 'all', 'it', 'was', 'a', 'very', 'nice', 'romantic', 'place', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['romantic', 'place', 'nice', 'very', 'nice', 'very', 'nice', 'very', 'nice', 'very']================
+
+================['a', 'coworker', 'and', 'i', 'tried', 'pacifico', 'after', 'work', 'a', 'few', 'fridays', 'and', 'loved', 'it', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['tried', 'loved', 'tried', 'loved', 'tried', 'i', 'tried', 'pacifico', 'tried', 'pacifico']================
+
+================['the', 'atmosphere', 'was', 'great', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'atmosphere', 'the', 'atmosphere', 'was', 'great', 'was', '.', 'was', '.']================
+
+================['the', 'food', 'we', 'ordered', 'was', 'excellent', ',', 'although', 'i', 'would', "n't", 'say', 'the', 'margaritas', 'were', 'anything', 'to', 'write', 'home', 'about', '.']
+['the', 'food', 'was', 'food', 'was', 'excellent', 'was', 'excellent', 'was', 'excellent']================
+
+================['the', 'food', 'we', 'ordered', 'was', 'excellent', ',', 'although', 'i', 'would', "n't", 'say', 'the', 'margaritas', 'were', 'anything', 'to', 'write', 'home', 'about', '.']
+['the', 'margaritas', 'were', 'anything', 'were', 'say', "n't", 'say', 'would', 'say']================
+
+================['our', 'waitress', 'was', "n't", 'mean', ',', 'but', 'not', 'especially', 'warm', 'or', 'attentive', 'either', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['our', 'waitress', 'mean', '.', 'mean', 'was', "n't", 'was', "n't", 'was']================
+
+================['i', 'must', 'say', 'i', 'am', 'surprised', 'by', 'the', 'bad', 'reviews', 'of', 'the', 'restaurant', 'earlier', 'in', 'the', 'year', ',', 'though', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'restaurant', 'of', 'reviews', 'bad', 'reviews', 'by', 'reviews', 'by', 'reviews']================
+
+================['regardless', ',', 'we', "'ll", 'be', 'back', 'and', 'ca', "n't", 'wait', 'to', 'visit', 'in', 'the', 'summer', 'to', 'take', 'advantage', 'of', 'the', 'patio', '.', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'patio', 'of', 'take', 'visit', 'in', 'visit', 'in', 'visit', 'in']================
+
+================['the', 'servers', 'at', 'flatbush', 'farm', 'appear', 'to', 'have', 'perfected', 'that', 'ghastly', 'technique', 'of', 'making', 'you', 'feel', 'guilty', 'and', 'ashamed', 'for', 'deigning', 'to', 'attract', 'their', 'attention', '.']
+['the', 'servers', 'appear', 'perfected', 'technique', 'ghastly', 'technique', 'ghastly', 'technique', 'that']================
+
+================['a', 'different', 'server', 'enhanced', 'the', 'fun', ',', 'dumping', 'our', 'entrees', 'in', 'front', 'of', 'us', 'halfway', 'through', 'our', 'appetizer', '(', 'which', 'was', 'delicious', ')', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['different', 'server', 'enhanced', 'dumping', 'was', 'dumping', 'was', 'dumping', 'entrees', 'dumping']================
+
+================['a', 'different', 'server', 'enhanced', 'the', 'fun', ',', 'dumping', 'our', 'entrees', 'in', 'front', 'of', 'us', 'halfway', 'through', 'our', 'appetizer', '(', 'which', 'was', 'delicious', ')', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['our', 'appetizer', 'our', 'appetizer', 'through', 'appetizer', 'through', 'appetizer', 'through', 'halfway']================
+
+================['overall', 'the', 'food', 'quality', 'was', 'pretty', 'good', ',', 'though', 'i', 'hear', 'the', 'salmon', 'is', 'much', 'better', 'when', 'it', 'has', "n't", 'sat', 'cooling', 'in', 'front', 'of', 'the', 'guest', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'quality', 'the', 'quality', 'was', 'hear', 'i', 'hear', 'i', 'hear']================
+
+================['the', 'place', 'has', 'a', 'nice', 'fit', '-', 'out', ',', 'some', 'attractive', 'furnishings', 'and', ',', 'from', 'what', 'i', 'could', 'tell', ',', 'a', 'reasonable', 'wine', 'list', '(', 'i', 'was', 'given', 'the', 'food', 'menu', 'when', 'i', 'asked', 'for', 'the', 'carte', 'des', 'vins', ')']
+['nice', 'out', 'has', 'given', 'from', 'list', 'a', 'list', 'reasonable', 'list']================
+
+================['the', 'place', 'has', 'a', 'nice', 'fit', '-', 'out', ',', 'some', 'attractive', 'furnishings', 'and', ',', 'from', 'what', 'i', 'could', 'tell', ',', 'a', 'reasonable', 'wine', 'list', '(', 'i', 'was', 'given', 'the', 'food', 'menu', 'when', 'i', 'asked', 'for', 'the', 'carte', 'des', 'vins', ')']
+['attractive', 'furnishings', 'attractive', 'furnishings', 'attractive', 'furnishings', 'attractive', 'furnishings', 'attractive', 'furnishings']================
+
+================['the', 'place', 'has', 'a', 'nice', 'fit', '-', 'out', ',', 'some', 'attractive', 'furnishings', 'and', ',', 'from', 'what', 'i', 'could', 'tell', ',', 'a', 'reasonable', 'wine', 'list', '(', 'i', 'was', 'given', 'the', 'food', 'menu', 'when', 'i', 'asked', 'for', 'the', 'carte', 'des', 'vins', ')']
+['reasonable', 'list', 'reasonable', 'list', 'from', 'tell', 'i', 'tell', 'i', 'tell']================
+
+================['how', 'is', 'this', 'palce', 'still', 'open', '?', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'palce', 'open', 'still', 'open', 'still', 'open', 'still', 'open', 'still']================
+
+================['everything', 'was', 'going', 'good', 'until', 'we', 'got', 'our', 'meals', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['our', 'meals', 'our', 'meals', 'our', 'meals', 'our', 'meals', 'our', 'meals']================
+
+================['i', 'took', 'one', 'look', 'at', 'the', 'chicken', 'and', 'i', 'was', 'appalled', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'chicken', 'at', 'look', 'took', 'look', 'took', 'and', 'took', 'was']================
+
+================['it', 'was', 'served', 'with', 'skin', ',', 'over', 'a', 'bed', 'of', 'extremely', 'undercooked', 'spinach', 'and', 'mashed', 'potatoes', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['undercooked', 'potatoes', 'undercooked', 'potatoes', 'undercooked', 'extremely', 'undercooked', 'extremely', 'undercooked', 'extremely']================
+
+================['i', 'took', 'one', 'bite', 'from', 'the', '$', '24', 'salmon', ',', 'and', 'i', 'have', 'never', ',', 'in', 'the', '17', 'years', 'i', 'have', 'been', 'going', 'to', 'restaurants', 'tasted', '$', 't$', 'as', 'fishy', ',', 'as', 'dry', ',', 'and', 'as', 'bland', 'as', 'the', 'one', 'in', 'flatbush', 'farms', '.']
+['24', 'salmon', 'from', 'took', 'and', 'took', 'and', 'took', 'going', 'bland']================
+
+================['at', 'this', 'point', ',', 'the', 'waitress', 'comes', 'over', 'and', 'asks', 'us', 'if', 'everything', 'was', 'okay', ',', 'i', 'was', 'literally', 'so', 'shocked', 'that', 'i', 'was', 'speechless', 'and', 'did', "n't", 'say', 'anything', ',', 'and', 'guess', 'what', ',', 'the', '$', 't$', 'walked', 'away', '.', '<pad>', '<pad>', '<pad>']
+['the', 'waitress', 'the', 'waitress', 'the', 'waitress', 'the', 'waitress', 'the', 'waitress']================
+
+================['so', ',', 'i', 'switch', 'with', 'my', 'boyfriend', 'again', 'to', 'see', 'if', 'maybe', 'i', 'could', 'stomach', 'the', 'meat', 'and', 'spinach', 'again', ',', 'but', 'the', '$', 't$', 'was', 'so', 'undercooked', 'that', 'i', 'just', 'could', 'not', 'bite', 'through', 'it', '.', '<pad>', '<pad>', '<pad>', '<pad>']
+['and', 'meat', 'stomach', 'maybe', 'stomach', 'maybe', 'stomach', 'could', 'stomach', 'if']================
+
+================['this', 'is', 'where', 'it', 'really', 'really', 'gets', 'bad', ':', 'the', 'manager', 'said', ',', 'there', 'is', 'absolutely', 'nothing', 'we', 'can', 'do', ',', 'it', "'s", 'a', 'matter', 'of', 'taste', 'that', 'she', 'did', "n't", 'like', 'it', ',', 'and', 'i', 'can', 'not', 'comp', 'it', '.']
+['the', 'manager', 'said', ',', 'said', 'manager', 'said', "'s", 'said', 'manager']================
+
+================['the', 'manager', 'came', 'to', 'the', 'table', 'and', 'said', 'we', 'can', 'do', 'what', 'we', 'want', ',', 'so', 'we', 'paid', 'for', 'what', 'we', 'did', 'enjoy', ',', 'the', 'drinks', 'and', 'appetizers', ',', 'and', 'walked', 'out', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'manager', 'came', 'said', 'came', 'said', 'came', 'said', 'came', 'paid']================
+
+================['the', 'manager', 'came', 'to', 'the', 'table', 'and', 'said', 'we', 'can', 'do', 'what', 'we', 'want', ',', 'so', 'we', 'paid', 'for', 'what', 'we', 'did', 'enjoy', ',', 'the', 'drinks', 'and', 'appetizers', ',', 'and', 'walked', 'out', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'drinks', 'paid', 'for', 'enjoy', 'did', 'enjoy', 'we', 'enjoy', 'we']================
+
+================['the', 'manager', 'came', 'to', 'the', 'table', 'and', 'said', 'we', 'can', 'do', 'what', 'we', 'want', ',', 'so', 'we', 'paid', 'for', 'what', 'we', 'did', 'enjoy', ',', 'the', 'drinks', 'and', 'appetizers', ',', 'and', 'walked', 'out', '.']
+['and', 'drinks', 'appetizers', 'drinks', 'paid', 'for', 'enjoy', 'did', 'enjoy', 'we']================
+
+================['this', 'staff', 'should', 'be', 'fired', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'staff', 'fired', 'should', 'fired', 'be', 'fired', 'should', 'fired', 'should']================
+
+================['cirspy', 'crust', 'margherita', 'pizza', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['crust', 'cirspy', 'crust', 'pizza', 'margherita', 'pizza', 'margherita', 'pizza', 'margherita', 'pizza']================
+
+================['it', 'was', 'really', 'good', 'pizza', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['good', 'pizza', 'good', 'really', 'good', 'really', 'good', 'really', 'good', 'really']================
+
+================['the', 'crust', 'was', 'imazingly', 'cooked', 'well', 'and', 'pizza', 'was', 'fully', 'loaded', ':', ')', ':', ')', ':', ')', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'crust', 'cooked', ':', 'cooked', 'well', 'cooked', 'imazingly', 'cooked', 'imazingly']================
+
+================['the', 'crust', 'was', 'imazingly', 'cooked', 'well', 'and', 'pizza', 'was', 'fully', 'loaded', ':', ')', ':', ')', ':', ')', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['and', 'cooked', 'and', 'cooked', 'well', 'cooked', 'well', 'cooked', 'and', 'cooked']================
+
+================['single', 'worst', 'restaurant', 'in', 'manhattan', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['worst', 'restaurant', 'worst', 'restaurant', 'worst', 'restaurant', 'worst', 'restaurant', 'worst', 'restaurant']================
+
+================['i', "'ll", 'being', 'with', 'a', 'couple', 'of', 'positives', ':', 'cool', 'decor', ',', 'good', 'pita', 'and', 'hummus', ',', 'and', 'grilled', 'octopus', 'that', 'was', 'actually', 'pretty', 'tasty', '.']
+['cool', 'decor', 'being', 'grilled', 'octopus', 'grilled', 'octopus', 'was', 'octopus', 'was']================
+
+================['i', "'ll", 'being', 'with', 'a', 'couple', 'of', 'positives', ':', 'cool', 'decor', ',', 'good', 'pita', 'and', 'hummus', ',', 'and', 'grilled', 'octopus', 'that', 'was', 'actually', 'pretty', 'tasty', '.']
+['good', 'pita', 'decor', 'being', ':', 'being', 'grilled', 'octopus', 'grilled', 'octopus']================
+
+================['i', "'ll", 'being', 'with', 'a', 'couple', 'of', 'positives', ':', 'cool', 'decor', ',', 'good', 'pita', 'and', 'hummus', ',', 'and', 'grilled', 'octopus', 'that', 'was', 'actually', 'pretty', 'tasty', '.']
+['and', 'pita', 'good', 'pita', 'decor', 'being', 'grilled', 'octopus', 'was', 'tasty']================
+
+================['i', "'ll", 'being', 'with', 'a', 'couple', 'of', 'positives', ':', 'cool', 'decor', ',', 'good', 'pita', 'and', 'hummus', ',', 'and', 'grilled', 'octopus', 'that', 'was', 'actually', 'pretty', 'tasty', '.']
+['and', 'hummus', 'pita', 'decor', 'cool', 'decor', 'cool', 'decor', 'cool', 'decor']================
+
+================['if', 'i', 'could', 'give', '0', 'stars', 'i', 'would', 'do', 'so', 'for', 'this', 'place', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'for', 'do', 'would', 'do', 'would', 'do', 'for', 'do']================
+
+================['this', 'place', '...', 'god', 'where', 'do', 'i', 'begin', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', '...', 'place', '...', 'place', '...', 'place', '...', 'place']================
+
+================['it', 'is', 'quite', 'a', 'spectacular', 'scene', 'i', "'ll", 'give', 'them', 'that', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['spectacular', 'scene', 'quite', 'scene', 'spectacular', 'scene', 'spectacular', 'scene', 'spectacular', 'scene']================
+
+================['the', 'decor', 'however', 'seems', 'to', 'be', 'the', 'distraction', 'so', 'you', 'wo', "n't", 'notice', 'that', 'you', 'just', 'payed', '300', 'bucks', 'for', 'some', 'cold', 'eggplant', 'that', 'took', '2', 'frickin', 'hours', 'to', 'come', '!', '!', '!', '!']
+['the', 'decor', 'seems', 'notice', 'payed', 'notice', 'wo', 'notice', 'wo', 'notice']================
+
+================['the', 'decor', 'however', 'seems', 'to', 'be', 'the', 'distraction', 'so', 'you', 'wo', "n't", 'notice', 'that', 'you', 'just', 'payed', '300', 'bucks', 'for', 'some', 'cold', 'eggplant', 'that', 'took', '2', 'frickin', 'hours', 'to', 'come', '!', '!', '!', '!']
+['cold', 'eggplant', 'for', 'payed', 'notice', 'wo', 'notice', "n't", 'notice', 'payed']================
+
+================['how', 'this', 'place', 'survives', 'the', 'competitive', 'west', 'village', 'market', 'in', 'this', 'economy', ',', 'or', 'any', 'other', 'for', 'that', 'matter', ',', 'is', 'beyond', 'me', '.']
+['this', 'place', 'survives', 'in', 'economy', 'this', 'economy', 'this', 'economy', 'this']================
+
+================['great', 'hot', 'dogs', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'dogs', 'hot', 'dogs', '!', 'dogs', '!', 'dogs', '!', 'dogs']================
+
+================['though', 'it', "'s", 'been', 'crowded', 'most', 'times', 'i', "'ve", 'gone', 'here', ',', 'bark', 'always', 'delivers', 'on', 'their', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['their', 'on', 'here', 'i', 'here', 'i', 'here', "'ve", 'here', 'i']================
+
+================['though', 'it', "'s", 'been', 'crowded', 'most', 'times', 'i', "'ve", 'gone', 'here', ',', 'bark', 'always', 'delivers', 'on', 'their', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+[',', 'here', "'ve", 'here', "'ve", 'here', 'crowded', 'been', 'crowded', 'here']================
+
+================['the', 'hot', 'dogs', 'are', 'top', 'notch', ',', 'and', 'they', "'re", 'slamwich', 'is', 'amazing', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'dogs', 'are', 'is', 'amazing', 'is', 'amazing', 'is', 'amazing', 'is']================
+
+================['the', 'hot', 'dogs', 'are', 'top', 'notch', ',', 'and', 'they', "'re", 'slamwich', 'is', 'amazing', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+["'re", 'are', ',', 'are', 'notch', 'are', 'is', 'amazing', 'is', 'amazing']================
+
+================['going', 'to', 'bark', 'is', 'always', 'worth', 'the', 'train', 'ride', ',', 'and', 'will', 'make', 'your', 'tongue', 'and', 'belly', 'very', 'happy', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['to', 'bark', 'going', 'is', '!', 'is', 'always', 'is', 'always', 'is']================
+
+================['only', 'complaint', 'is', 'the', 'pricing', '--', 'i', 'believe', 'it', 'would', 'be', 'more', 'reasonable', 'to', 'pay', 'a', 'dollar', 'less', 'on', 'each', 'item', 'listed', 'on', 'the', 'menu', '.']
+['the', 'menu', 'on', 'listed', 'item', 'on', 'pay', 'on', 'pay', 'dollar']================
+
+================['but', 'nonetheless', '--', 'great', 'spot', ',', 'great', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'spot', 'nonetheless', 'spot', 'nonetheless', 'spot', 'nonetheless', 'spot', 'nonetheless', 'spot']================
+
+================['but', 'nonetheless', '--', 'great', 'spot', ',', 'great', 'food', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'food', 'great', 'food', 'spot', '--', 'spot', 'nonetheless', 'spot', 'nonetheless']================
+
+================['fabulous', 'food', '-', 'if', 'the', 'front', 'of', 'house', 'staff', 'do', "n't", 'put', 'you', 'off', '–']
+['fabulous', 'food', 'fabulous', 'food', 'fabulous', 'food', 'fabulous', 'food', 'fabulous', 'food']================
+
+================['fabulous', 'food', '-', 'if', 'the', 'front', 'of', 'house', 'staff', 'do', "n't", 'put', 'you', 'off', '–']
+['the', 'front', 'put', "n't", 'put', 'if', 'put', "n't", 'put', "n't"]================
+
+================['each', 'time', 'we', "'ve", 'been', ',', 'the', 'front', 'of', 'house', 'staff', '(', 'not', 'the', 'waiters', '-', 'they', "'re", 'fantastic', '-', 'but', 'the', 'people', 'who', 'greet', 'and', 'seat', 'you', ')', 'has', 'been', 'so', 'hideous', 'to', 'us', 'that', 'were', 'it', 'not', 'for', 'the', 'exceptional', 'fish', 'dishes', 'i', 'would', 'never', 'return', '.']
+['the', 'of', '-', 'waiters', '-', 'waiters', '-', 'waiters', '-', 'waiters']================
+
+================['each', 'time', 'we', "'ve", 'been', ',', 'the', 'front', 'of', 'house', 'staff', '(', 'not', 'the', 'waiters', '-', 'they', "'re", 'fantastic', '-', 'but', 'the', 'people', 'who', 'greet', 'and', 'seat', 'you', ')', 'has', 'been', 'so', 'hideous', 'to', 'us', 'that', 'were', 'it', 'not', 'for', 'the', 'exceptional', 'fish', 'dishes', 'i', 'would', 'never', 'return', '.']
+['the', 'time', 'fantastic', 'so', 'to', 'so', 'to', 'hideous', 'to', 'hideous']================
+
+================['each', 'time', 'we', "'ve", 'been', ',', 'the', 'front', 'of', 'house', 'staff', '(', 'not', 'the', 'waiters', '-', 'they', "'re", 'fantastic', '-', 'but', 'the', 'people', 'who', 'greet', 'and', 'seat', 'you', ')', 'has', 'been', 'so', 'hideous', 'to', 'us', 'that', 'were', 'it', 'not', 'for', 'the', 'exceptional', 'fish', 'dishes', 'i', 'would', 'never', 'return', '.']
+['exceptional', 'i', 'dishes', 'i', 'the', 'i', 'exceptional', 'i', 'exceptional', 'i']================
+
+================['as', 'bfc', 'does', "n't", 'take', 'reservations', 'you', 'almost', 'always', 'have', 'to', 'wait', 'by', 'the', 'bar', '-', 'and', 'be', 'abused', 'by', 'the', 'front', 'of', 'house', 'staff', 'until', 'you', 'are', 'seated', ',', 'which', 'can', 'be', 'over', 'an', 'hour', 'later', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['as', 'take', 'have', 'take', "n't", 'take', "n't", 'take', "n't", 'take']================
+
+================['as', 'bfc', 'does', "n't", 'take', 'reservations', 'you', 'almost', 'always', 'have', 'to', 'wait', 'by', 'the', 'bar', '-', 'and', 'be', 'abused', 'by', 'the', 'front', 'of', 'house', 'staff', 'until', 'you', 'are', 'seated', ',', 'which', 'can', 'be', 'over', 'an', 'hour', 'later', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'front', 'by', 'front', 'of', 'front', 'of', 'front', 'of', 'front']================
+
+================['the', 'frizzy', 'retro', 'girl', '(', 'with', 'winged/', 'dame', 'edna', 'glasses', ')', 'will', 'yell', 'at', 'you', 'if', 'you', 'try', 'to', 'order', 'a', 'drink', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['retro', 'girl', 'frizzy', 'girl', 'the', 'girl', 'frizzy', 'girl', 'frizzy', 'girl']================
+
+================['i', "'d", 'be', 'horrified', 'if', 'my', 'staff', 'were', 'turning', 'away', 'customers', 'so', 'early', 'and', 'so', 'rudely', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['my', 'staff', 'turning', 'away', 'turning', 'if', 'turning', 'horrified', 'turning', 'staff']================
+
+================['there', "'s", 'another', 'girl', 'who', 'i', 'ca', "n't", 'describe', ',', 'she', 'is', 'about', "5'6", '"', 'with', 'brown', 'hair', ',', 'who', 'eavesdrops', 'on', 'your', 'conversation', 'and', 'chimes', 'in', '-', 'except', 'she', 'only', 'hears', 'the', 'last', 'part', 'of', 'what', 'you', 'said', ',', 'so', 'her', 'uninvited', 'opinions', 'are', 'often', 'out', 'of', 'context', 'and', 'nothing', 'to', 'do', 'with', 'what', 'you', "'re", '*', 'really', '*', 'talking', 'about', '.']
+['another', 'girl', 'describe', "n't", 'describe', "n't", 'describe', 'who', 'describe', 'i']================
+
+================['considering', 'you', 'will', 'spend', 'at', 'least', '$', '60', 'a', 'head', ',', 'i', 'expect', 'better', 'service', '.', '<pad>', '<pad>']
+['better', 'service', 'expect', 'considering', 'expect', ',', 'expect', 'considering', 'expect', ',']================
+
+================['maitre', '-', 'd', '-"eat', 'and', 'get', 'out', '"', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['maitre', '-', '-"eat', 'and', 'get', 'and', 'get', 'and', 'get', 'and']================
+
+================['the', 'food', 'and', 'service', 'were', 'fine', ',', 'however', 'the', 'maitre', '-', 'd', 'was', 'incredibly', 'unwelcoming', 'and', 'arrogant', '.']
+['the', 'food', 'and', 'food', 'and', 'food', 'service', 'food', 'service', 'food']================
+
+================['the', 'food', 'and', 'service', 'were', 'fine', ',', 'however', 'the', 'maitre', '-', 'd', 'was', 'incredibly', 'unwelcoming', 'and', 'arrogant', '.']
+['and', 'food', 'and', 'food', 'and', 'food', 'service', 'food', 'service', 'food']================
+
+================['the', 'food', 'and', 'service', 'were', 'fine', ',', 'however', 'the', 'maitre', '-', 'd', 'was', 'incredibly', 'unwelcoming', 'and', 'arrogant', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'd', '-', 'd', 'was', 'unwelcoming', 'arrogant', 'unwelcoming', 'arrogant', 'unwelcoming']================
+
+================['while', 'finishing', 'our', 'meals', 'which', 'included', 'a', 'high', '-', 'end', 'bottle', 'of', 'wine', ',', 'our', 'son', "'s", 'fiance', 'joined', 'us', 'for', 'a', 'glass', 'of', 'wine', 'and', 'dessert', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['end', 'high', 'end', '-', 'end', 'bottle', 'a', 'bottle', 'a', 'bottle']================
+
+================['this', 'guy', 'refused', 'to', 'seat', 'her', 'and', 'she', 'left', ',', 'followed', 'shortly', 'by', 'the', 'four', 'of', 'us', ',', 'but', 'not', 'before', 'i', 'told', 'him', 'that', 'in', 'my', '40', 'years', 'of', 'world', 'travel', ',', 'including', 'paris', ',', 'that', 'i', 'had', 'never', 'seen', 'such', 'a', 'display', 'of', 'bad', 'behavior', 'by', 'a', 'frontman', 'in', 'a', 'restaurant', '.']
+['a', 'frontman', 'by', 'seen', 'told', 'him', 'told', 'not', 'told', 'seen']================
+
+================['a', 'word', 'to', 'the', 'wise', ':', 'you', 'ca', "n't", 'dine', 'here', 'and', 'disturb', 'the', 'maitre', '-', 'd', "'s", 'sense', 'of', '"', 'table', 'turnover', '"', ',', 'as', 'whacked', 'as', 'it', 'is', ',', 'or', 'else', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'd', '-', 'd', "'s", 'd', 'maitre', 'd', 'maitre', 'd']================
+
+================['best', 'meal', 'in', 'a', 'long', 'time', '!', '<pad>', '<pad>']
+['best', 'meal', 'in', 'meal', '!', 'meal', '!', 'meal', '!', 'meal']================
+
+================['mussles', 'and', 'calamari', 'were', 'superb', 'saturday', 'evening', '.', '<pad>']
+['mussles', 'and', 'superb', '.', 'superb', 'saturday', 'superb', 'saturday', 'superb', 'saturday']================
+
+================['mussles', 'and', 'calamari', 'were', 'superb', 'saturday', 'evening', '.', '<pad>']
+['and', 'mussles', 'calamari', 'mussles', 'calamari', 'mussles', 'calamari', 'mussles', 'calamari', 'mussles']================
+
+================['i', 'had', 'the', 'lamb', 'special', 'which', 'was', 'perfect', '.']
+['the', 'special', 'lamb', 'special', 'had', 'i', 'had', 'i', 'had', '.']================
+
+================['my', 'father', 'had', 'the', 'flank', 'steak', 'which', 'was', 'very', 'good', ',', 'and', 'my', 'mother', 'had', 'the', 'swordfish', '.']
+['the', 'steak', 'flank', 'steak', 'had', 'had', 'mother', 'my', 'mother', 'my']================
+
+================['the', 'four', 'seasons', 'restaurant', 'is', 'a', 'great', 'experience', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'is', 'restaurant', 'seasons', 'restaurant', 'seasons', 'restaurant', 'seasons', 'restaurant', 'seasons']================
+
+================['the', 'food', 'is', 'great', 'and', 'the', 'environment', 'is', 'even', 'better', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'the', 'food', 'is', 'great', 'is', 'great', 'is', 'great']================
+
+================['the', 'food', 'is', 'great', 'and', 'the', 'environment', 'is', 'even', 'better', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'environment', 'is', 'is', 'great', 'is', 'great', 'is', 'is', '.']================
+
+================['taking', 'hot', 'dogs', 'to', 'the', 'next', 'level', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['taking', 'dogs', 'hot', 'dogs', 'hot', 'dogs', 'hot', 'dogs', 'hot', 'dogs']================
+
+================['at', 'first', 'glance', 'this', 'place', 'seems', 'a', 'bit', 'pricey', 'for', 'a', 'hot', 'dog', 'joint', ',', 'but', 'at', 'bark', 'you', 'do', "n't", 'just', 'get', 'your', 'average', 'hot', 'dog', '.']
+['at', 'bark', 'at', 'get', "n't", 'get', "n't", 'get', 'just', 'get']================
+
+================['at', 'first', 'glance', 'this', 'place', 'seems', 'a', 'bit', 'pricey', 'for', 'a', 'hot', 'dog', 'joint', ',', 'but', 'at', 'bark', 'you', 'do', "n't", 'just', 'get', 'your', 'average', '$', 't$.', '<pad>']
+['a', 'joint', 'a', 'joint', 'dog', 'joint', 'dog', 'hot', 'dog', 'hot']================
+
+================['here', 'the', 'hot', 'dog', 'is', 'elevated', 'to', 'the', 'level', 'of', 'a', 'real', 'entree', 'with', 'numerous', 'variations', 'available', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'dog', 'elevated', 'to', 'level', 'available', 'variations', 'numerous', 'variations', 'numerous']================
+
+================['great', 'atmosphere', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['great', 'atmosphere', 'great', 'atmosphere', 'great', 'atmosphere', 'great', 'atmosphere', 'great', 'atmosphere']================
+
+================['i', 'highly', 'recommend', 'the', 'fish', 'tacos', ',', 'everything', 'else', 'was', 'ok', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'tacos', 'recommend', 'i', 'recommend', 'i', 'recommend', 'i', 'recommend', 'highly']================
+
+================['cool', 'atmosphere', ',', 'the', 'fire', 'place', 'in', 'the', 'back', 'really', 'ads', 'to', 'it', 'but', 'needs', 'a', 'bit', 'more', 'heat', 'throughout', 'on', 'a', 'cold', 'night', '.']
+['cool', 'atmosphere', 'but', 'atmosphere', 'place', 'in', 'ads', 'really', 'ads', 'really']================
+
+================['cool', 'atmosphere', ',', 'the', 'fire', 'place', 'in', 'the', 'back', 'really', 'ads', 'to', 'it', 'but', 'needs', 'a', 'bit', 'more', 'heat', 'throughout', 'on', 'a', 'cold', 'night', '.']
+['the', 'place', 'fire', 'place', 'in', 'ads', 'in', 'ads', 'in', 'ads']================
+
+================['poor', 'service', 'and', 'management', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['poor', 'service', 'poor', 'service', 'poor', 'service', 'poor', 'service', 'poor', 'service']================
+
+================['poor', 'service', 'and', 'management', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['and', 'service', 'poor', 'service', 'poor', 'service', 'poor', 'service', 'poor', 'service']================
+
+================['do', 'n’t', 'go', 'to', 'this', 'place', '!', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['this', 'place', 'to', 'go', 'n’t', 'go', 'n’t', 'go', 'n’t', 'go']================
+
+================['had', 'an', 'awful', 'experience', 'at', 'casa', 'la', 'femme', 'on', 'a', 'saturday', 'dinner', '.']
+['at', 'casa', 'at', 'experience', 'femme', 'experience', 'awful', 'experience', 'awful', 'experience']================
+
+================['the', 'manager', 'was', 'rude', 'and', 'handled', 'the', 'situation', 'extremely', 'poorly', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'manager', 'was', 'rude', 'was', 'rude', 'was', 'rude', 'was', 'and']================
+
+================['ca', 'n’t', 'believe', 'how', 'an', 'expensive', 'nyc', 'restaurant', 'can', 'be', 'so', 'disrespectful', 'to', 'its', 'clients', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['nyc', 'restaurant', 'be', 'disrespectful', 'so', 'disrespectful', 'so', 'disrespectful', 'so', 'disrespectful']================
+
+================['the', 'food', 'is', 'very', 'good', ',', 'but', 'not', 'outstanding', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'is', ',', 'is', ',', 'is', ',', 'is', ',']================
+
+================['there', 'is', 'no', 'way', 'it', 'justifies', 'the', 'accolades', 'it', 'receives', ',', 'the', 'attitude', 'of', 'the', 'staff', 'or', 'the', 'wait', 'for', 'a', 'table', '.']
+['the', 'staff', 'of', 'attitude', 'is', 'way', 'no', 'way', 'no', 'way']================
+
+================['there', 'is', 'no', 'way', 'it', 'justifies', 'the', 'accolades', 'it', 'receives', ',', 'the', 'attitude', 'of', 'the', 'staff', 'or', 'the', 'wait', 'for', 'a', 'table', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'wait', 'for', 'table', 'for', 'table', 'for', 'table', 'for', 'wait']================
+
+================['mistakes', 'happen', ',', 'but', 'they', 'are', 'usually', 'accompanied', 'by', 'an', 'apology', ',', 'perhaps', 'even', 'a', 'glass', 'of', 'wine', '...', 'but', 'not', 'the', 'grunt', 'that', 'we', 'received', 'from', 'the', 'al', 'di', 'la', 'staff', '.']
+['la', 'staff', 'from', 'received', 'grunt', '.', 'grunt', '.', 'grunt', 'received']================
+
+================['the', 'bread', 'was', 'stale', ',', 'the', 'salad', 'was', 'overpriced', 'and', 'empty', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'bread', 'was', 'overpriced', 'empty', 'overpriced', '.', 'overpriced', 'empty', 'overpriced']================
+
+================['the', 'bread', 'was', 'stale', ',', 'the', 'salad', 'was', 'overpriced', 'and', 'empty', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'salad', 'overpriced', 'and', 'overpriced', 'empty', 'overpriced', 'empty', 'overpriced', 'was']================
+
+================['the', 'pasta', 'was', 'well', 'cooked', ',', 'did', "n't", 'have', 'enough', 'sauce', 'though', 'or', 'flavor', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'pasta', 'cooked', 'pasta', 'cooked', 'have', 'sauce', 'have', '.', 'have']================
+
+================['the', 'hostess', 'was', 'rude', 'and', 'i', 'got', 'a', 'distinct', 'feeling', 'that', 'they', 'did', 'not', 'want', 'to', 'serve', 'us', '.', '<pad>', '<pad>']
+['the', 'hostess', 'the', 'hostess', 'was', 'rude', 'was', 'rude', 'was', 'hostess']================
+
+================['the', 'only', 'thing', 'that', 'my', 'friend', 'left', 'out', 'is', 'that', 'when', 'we', 'sat', 'down', 'at', 'the', 'bar', 'the', 'bartender', 'disappeared', '.']
+['the', 'bartender', 'disappeared', 'sat', 'down', 'sat', 'down', 'sat', 'when', 'sat']================
+
+================['i', 'asked', 'for', 'a', 'menu', 'and', 'the', 'same', 'waitress', 'looked', 'at', 'my', 'like', 'i', 'was', 'insane', '.', '<pad>', '<pad>', '<pad>', '<pad>']
+['same', 'waitress', 'looked', 'waitress', 'looked', 'asked', 'looked', 'waitress', 'same', 'waitress']================
+
+================['i', 'was', 'shocked', 'that', 'my', 'friends', 'wanted', 'to', 'stay', 'after', 'the', 'waitress', 'said', ',', '"', 'can', 'i', 'help', 'you', '"', 'and', '"', 'how', 'many', 'are', 'in', 'your', 'party', '.', '"']
+['the', 'waitress', 'said', 'waitress', 'said', 'after', 'said', 'after', 'said', 'waitress']================
+
+================['shame', 'on', 'this', 'place', 'for', 'the', 'horrible', 'rude', 'staff', 'and', 'non', '-', 'existent', 'customer', 'service', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['rude', 'staff', 'rude', 'staff', 'horrible', 'staff', 'rude', 'staff', 'rude', 'staff']================
+
+================['shame', 'on', 'this', 'place', 'for', 'the', 'horrible', 'rude', 'staff', 'and', 'non', '-', 'existent', 'customer', 'service', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['existent', 'service', 'staff', 'the', 'staff', 'horrible', 'staff', 'rude', 'staff', 'and']================
+
+================['bad', 'staff', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['bad', 'staff', 'bad', 'staff', 'bad', 'staff', 'bad', 'staff', 'bad', 'staff']================
+
+================['i', 'generally', 'like', 'this', 'place', '.', '<pad>', '<pad>']
+['this', 'place', 'like', 'i', 'like', 'generally', 'like', 'i', 'like', 'i']================
+
+================['the', 'food', 'is', 'good', '.', '<pad>', '<pad>', '<pad>']
+['the', 'food', 'the', 'food', 'the', 'food', 'is', '.', 'is', '.']================
+
+================['the', 'design', 'of', 'the', 'space', 'is', 'good', '.']
+['the', 'space', 'of', 'design', 'the', 'design', 'is', '.', 'is', '.']================
+
+================['but', 'the', 'service', 'is', 'horrid', '!', '<pad>', '<pad>']
+['the', 'service', 'is', 'horrid', 'is', 'horrid', 'is', 'horrid', 'is', 'horrid']================
+
+================['i', 'was', 'there', 'for', 'brunch', 'recently', ',', 'and', 'we', 'were', 'tag', 'teamed', 'by', 'a', 'waitress', 'and', 'a', 'waiter', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['a', 'waitress', 'and', 'waitress', 'waiter', 'waitress', 'waiter', 'waitress', 'waiter', 'waitress']================
+
+================['i', 'was', 'there', 'for', 'brunch', 'recently', ',', 'and', 'we', 'were', 'tag', 'teamed', 'by', 'a', 'waitress', 'and', 'a', 'waiter', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['a', 'waiter', 'waitress', 'waiter', 'waitress', 'and', 'waitress', 'waiter', 'waitress', 'waiter']================
+
+================['the', 'waiter', 'delivered', 'our', 'food', 'while', 'holding', 'what', 'appeared', 'to', 'be', 'a', 'plastic', 'bag', 'of', 'garbage', 'in', 'one', 'hand', '.', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>', '<pad>']
+['the', 'waiter', 'delivered', 'holding', 'appeared', 'what', 'appeared', 'what', 'appeared', 'holding']================
+
+================['the', 'waitress', 'came', 'to', 'check', 'in', 'on', 'us', 'every', 'few', 'minutes', ',', 'and', 'began', 'to', 'clear', 'the', 'plates', 'while', 'half', 'of', 'us', 'were', 'still', 'eating', '(', 'a', 'big', 'pet', 'peeve', 'of', 'mine', 'that', 'happens', 'almost', 'everywhere', ',', 'so', 'i', 'try', 'to', 'ignore', 'it', ')', '.']
+['the', 'waitress', 'the', 'waitress', 'came', 'waitress', 'came', 'waitress', 'the', 'waitress']================
+
+================['i', 'wish', 'i', 'could', 'like', 'this', 'place', 'more', ',', 'and', 'i', 'wish', 'someone', 'would', 'retrain', 'the', 'staff', '.']
+['this', 'place', 'like', 'could', 'like', 'could', 'like', 'could', 'like', 'could']================
+
+================['i', 'wish', 'i', 'could', 'like', 'this', 'place', 'more', ',', 'and', 'i', 'wish', 'someone', 'would', 'retrain', 'the', 'staff', '.']
+['the', 'staff', 'the', 'staff', 'the', 'staff', 'the', 'staff', 'the', 'staff']================
+
