@@ -6,5 +6,5 @@ The train_DE.py is the main function. Just run it, use --dataset to indicate the
 
 It requires pytorch, sklearn, numpy to run.
 
-To run the code, you also needs to download the glove embedding, and change the path in the data_utils_DE.py line 33 fname = './...'.
+To run the code, you also needs to download the glove embedding, and change the path in the data_utils_DE.py line 33 fname = './{YOUR_FILE_PATH}'.
 
