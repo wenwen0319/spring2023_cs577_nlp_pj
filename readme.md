@@ -8,3 +8,4 @@ It requires pytorch, sklearn, numpy to run.
 
 To run the code, you also needs to download the glove embedding, and change the path in the data_utils_DE.py line 33 fname = './{YOUR_FILE_PATH}'.
 
+More detailed dataset information can be found here https://github.com/GeneZC/ASGCN . We mainly follow the setting in this link.
